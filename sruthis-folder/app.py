@@ -96,7 +96,7 @@ def year():
     conn = sqlite3.connect('./refugee_data.sqlite')
     # conn.row_factory = dict_factory
     cur = conn.cursor()
-    rows = cur.execute("SELECT DISTINCT year FROM refugee_data ORDER BY year")
+    rows = cur.execute("SELECT DISTINCT year FROM refugee_data WHERE Origin NOT IN ('Various/Unknown') ORDER BY year")
     year_list = []
     for row in rows:
         year_list.append(row[0])

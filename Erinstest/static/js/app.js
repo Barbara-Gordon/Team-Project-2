@@ -1,6 +1,14 @@
 function createMap(){
+
+
   var chart = am4core.create("chartdiv", am4maps.MapChart);
   var interfaceColors = new am4core.InterfaceColorSet();
+
+  var title = chart.titles.create();
+  title.text = "[bold font-size: 20]Movement of Refugees and Asylum Seekers 1960-2017[/]\nSource: UNHCR";
+  title.textAlign = "middle";
+  var label = chart.chartContainer.createChild(am4core.Label);
+  label.align = "bottom";
     // Themes begin
     am4core.useTheme(am4themes_animated);
     // Themes end
@@ -19,17 +27,62 @@ function createMap(){
     polygonSeries.nonScalingStroke = true;
     polygonSeries.strokeWidth = 0.5;
 
+    var conflictSeries = chart.series.push(new am4maps.MapPolygonSeries());
+    conflictSeries.heatRules.push({
+      property: "fill",
+      target: conflictSeries.mapPolygons.template,
+      min: chart.colors.getIndex(1).brighten(1),
+      max: chart.colors.getIndex(1).brighten(-0.3)
+    });
+    conflictSeries.useGeodata = true;
 
-    
+
+    // Set up heat legend
+    let heatLegend = chart.createChild(am4maps.HeatLegend);
+    heatLegend.series = conflictSeries;
+    heatLegend.align = "right";
+    heatLegend.valign = "bottom";
+    heatLegend.width = am4core.percent(20);
+    heatLegend.marginRight = am4core.percent(4);
+    heatLegend.minValue = 0;
+    heatLegend.maxValue = 750000;
+
+    // Set up custom heat map legend labels using axis ranges
+    var minRange = heatLegend.valueAxis.axisRanges.create();
+    minRange.value = heatLegend.minValue;
+    minRange.label.text = "0";
+    var maxRange = heatLegend.valueAxis.axisRanges.create();
+    maxRange.value = heatLegend.maxValue;
+    maxRange.label.text = "750000";
+
+    // Blank out internal heat legend value axis labels
+    heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function(labelText) {
+      return "";
+    });
+
+    // Configure series tooltip
+    var polygonTemplate = conflictSeries.mapPolygons.template;
+    polygonTemplate.tooltipText = "{name}: {value}";
+    polygonTemplate.nonScalingStroke = true;
+    polygonTemplate.strokeWidth = 0.5;
+
+    // Create hover state and set alternative fill color
+    var hs = polygonTemplate.states.create("hover");
+    hs.properties.fill = am4core.color("#3c5bdc");
+
+    //create line series - with arrows showing origin to desination 
     var lineSeries = chart.series.push(new am4maps.MapLineSeries());
     lineSeries.dataFields.multiGeoLine = "multiGeoLine";
     
     var lineTemplate = lineSeries.mapLines.template;
     lineTemplate.nonScalingStroke = true;
+    lineTemplate.arrow.nonScaling = true;
+    lineTemplate.arrow.width = 4;
+    lineTemplate.arrow.height = 6;
     
     lineTemplate.stroke = interfaceColors.getFor("alternativeBackground");
     lineTemplate.fill = interfaceColors.getFor("alternativeBackground");
-    lineTemplate.line.strokeOpacity = 1;
+    lineTemplate.line.strokeOpacity = .5;
 
     //log first year of data? maybethis is the issue that is causing it not to create the map in the first place i don't fucking know
     lineSeries.data = 
@@ -119,6 +172,7 @@ function createMap(){
     slider.background.padding(0, 15, 0, 60);
     slider.marginBottom = 15;
     slider.valign = "bottom";
+  
     
     var currentIndex = 1960;
     
@@ -132,7 +186,7 @@ function createMap(){
       if (next >= 1) {
         next = 0;
       }
-    //   slider.animate({ property: "start", to: next }, 300);
+    slider.animate({ property: "start", to: next }, 300);
      }, 5000)
     
     slider.events.on("rangechanged", function () {
@@ -140,19 +194,36 @@ function createMap(){
       console.log(slider.start);
     })
     
-    //function creates graph > nest line and bubble/heat map creation here.
+    //function creates graph > nest line and heat map creation here.
     function changeYear() {
       var total_time = year_set.length - 1;
       var yearIndex = year_set[Math.round(total_time * slider.start)];
       console.log(year_set.length);
+      
+      label.text = "";
+      label.text = `${yearIndex}`;
+      label.fontSize = 20;
 
       if (currentIndex != yearIndex) {
         
-        var url = `/mapyear?year=${yearIndex}`
-        console.log(url);
-        //my addtiontions to load data from JSON
+        var url1 = `/conflictyear?year=${yearIndex}`
+        var url2 = `/mapyear?year=${yearIndex}`
+
+        d3.json(url1, response => {
+          var heat_data = [];
+          for (var index = 0; index < response.length; index++){
+            heat_data.push(
+              response[index]
+            );
+          } 
+          conflictSeries.data = heat_data;
+          conflictSeries.invalidateData();
+        });
+        
+
+
         //load data with d3 json request - use format below Origin>Destination
-        d3.json(url, response => {
+        d3.json(url2, response => {
         console.log(response[0].originlat);
 
         var line_data = [];

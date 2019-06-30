@@ -51,7 +51,7 @@ def yearly_data_map():
         country_data_lats.update({r[0]:r[1]})
         country_data_longs.update({r[0]:r[2]})
 
-    cur.execute(f"SELECT Destination_Code, Origin_Code from un_refugees where Year = {year} Group by Destination_Code, Origin_Code")
+    cur.execute(f"SELECT Destination_Code, Origin_Code from un_refugees where Year = {year} AND value > 1000 Group by Destination_Code, Origin_Code")
     results2 = cur.fetchall()
 
     yearly_data_map = []
@@ -63,10 +63,20 @@ def yearly_data_map():
     return jsonify(yearly_data_map)
 
 
+@app.route("/conflictyear")
+def conflictmap():
+    conn = sqlite3.connect("../data.sqlite")
+    cur = conn.cursor()
+    year = request.args.get('year')
 
-#RETURN FLIGHTPATH DATA OVER TIME   
-## need to pull year, Resident/origin country totals (use codes)
-    
+    conflictmap = []
+    cur.execute(f"SELECT Ccode, total_deaths from conflict_data where StartYear  = {year}")
+    results = cur.fetchall()
+    for r in results:
+        x = {"id":r[0],"value":r[1]}
+        conflictmap.append(x)
+
+    return jsonify(conflictmap)
 
 if __name__ == "__main__":
     app.run()

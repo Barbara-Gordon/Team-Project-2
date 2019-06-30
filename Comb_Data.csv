@@ -1,380 +1,1162 @@
-WarNum,WarName,WarType,WhereFought,SideA1,SideB1,StartYear,EndYear,Initiator,SideADeaths,SideBDeaths,Total Deaths
-Non_State,,,,,,,,,,,
-1574,Rwandan Social Revolution,8,Rwanda,Hutu,Tutsi,1959,1962,A,-9,-9,-9
-1577,Dhofar Rebellion Phase 1,8,Oman,Dhofar,Oman,1968,1971,A,-9,-9,5000
-1581,Angola Guerilla War,8,Angola,MPLA,FLNA,1974,1975,A,-9,-9,-9
-1582,East Timorese War Phase 1,8,Indonesia,Fretilin,UDT,1975,1975,B,-9,-9,3000
-1594,Hemda-Lendu War,9,Democratic Republic of Congo,Hemda,Lendu,1999,2005,B,-9,-9,-9
-Intra_State,,,,,,,,,,,
-733,South Moluccas,5,Indonesia,Indonesia,Moluccans,1950,1950,Moluccans,-9,-9,-18
-735,Hukbalahap Rebellion,4,Philippines,Philippines,Huks,1950,1954,Huks,1600,9700,11300
-737,Bolivia,4,Bolivia,Bolivia,Leftists,1952,1952,Leftists,-9,-9,-18
-738,Indonesia Darul Islam,4,Indonesia,Indonesia,Darul Islam,1953,1953,Darul Islam,1700,1000,2700
-740,Argentine Military,4,Argentina,Argentina,Military,1955,1955,Army,-9,-9,-18
-741,Tibetan Khamba Rebellion,5,Tibet,China,Khamba Tibetans,1956,1959,Khamba Tibetans,4000,12000,16000
-742,Indonesian Leftists,4,Indonesia,Indonesia,Leftists,1956,1962,Leftists,3700,23500,27200
-743,First Lebanese,4,Lebanon,United States of America,-8,1958,1958,Leftists,1,-8,-7
-743,First Lebanese,4,Lebanon,Lebanon,National Front,1958,1958,Leftists,-9,-9,-18
-745,Cuban Revolution,4,Cuba,Cuba,Castroites,1958,1959,Castroites,2000,1000,3000
-746,Second Burmese,4,Burma,Burma,Karens & Communists,1958,1960,Karens & Communists,850,2300,3150
-747,Iraq-Shammar,4,Iraq,Iraq,Shammar Tribe & Pro-WesternOfficers,1959,1959,Shammar Tribe & Pro-WesternOfficers,-9,-9,-18
-748,Vietnam Phase 1,4,Vietnam,United States of America,-8,1961,1965,NLF,506,-8,498
-748,Vietnam Phase 1,4,Vietnam,"Vietnam, Republic of",NLF,1960,1965,NLF,23300,76900,100200
-750,First DRC (Zaire),5,Democratic Republic of Congo,-8,Belgium,1960,1960,Katanga & Leftists,-8,50,42
-750,First DRC (Zaire),5,Democratic Republic of Congo,Zaire,Katanga & Leftists,1960,1963,Katanga & Leftists,-9,-9,-18
-751,First Laotian,4,Laos,-8,"Vietnam, Democratic Rep.",1961,1962,Pathet Lao,-8,-9,-17
-751,First Laotian,4,Laos,Laos,Pathet Lao,1960,1962,Pathet Lao,4000,1000,5000
-752,First Iraqi Kurd,5,Iraq,Iraq,Kurds,1961,1963,Kurds,500,2000,2500
-753,Algerian Revolutionaries,4,Algeria,Algeria,ALN,1962,1963,ALN,800,700,1500
-755,North Yemen,4,Yemen,Egypt/United Arab Republic,-8,1962,1967,Royalists,10000,-8,9992
-755,North Yemen,4,Yemen,Yemen Arab Republic,Royalists,1962,1969,Royalists,-9,-9,-18
-756,Second Laotian Phase 1,4,Laos,United States of America,-8,1964,1968,Pathet Lao,200,-8,192
-756,Second Laotian Phase 1,4,Laos,Laos,Pathet Lao,1963,1968,Pathet Lao,11250,7250,18500
-756,Second Laotian Phase 1,4,Laos,-8,"Vietnam, Democratic Rep.",1963,1968,Pathet Lao,-8,2250,2242
-757,First Ogaden,5,Ethiopia,-8,Somalia,1963,1964,Ogaden,-8,-9,-17
-757,First Ogaden,5,Ethiopia,Ethiopia,Ogaden,1963,1964,Ogaden,-9,-9,-18
-758,First South Sudan,5,Sudan,Sudan,Anya Nya,1963,1972,Anya Nya,-9,-9,-18
-760,Second DRC (Jeunesse),5,Democratic Republic of Congo,Congo,Juenesse warriors,1963,1965,Juenesse warriors,-9,-9,-18
-761,First Rwanda,4,Rwanda,Rwanda,Watusi,1963,1964,Watusi,100,900,1000
-762,Third DRC (Simba) Rebellion,4,Democratic Republic of Congo,Belgium,-8,1964,1965,Gbenye followers,4,-8,-4
-762,Third DRC (Simba) Rebellion,4,Democratic Republic of Congo,Congo,Gbenye followers,1964,1965,Gbenye followers,250,4000,4250
-763,Zanzibar Arab-African,4,Tanzania,Zanzibar,Africans,1964,1964,Africans,-9,-9,-18
-765,Second Iraqi Kurds,5,Iraq,Iraq,Kurds,1965,1966,Iraq,500,2500,3000
-766,Dominican Republic,4,Dominican Republic,United States of America,-8,1965,1965,Leftists,27,-8,19
-766,Dominican Republic,4,Dominican Republic,Dominican Republic,Leftists,1965,1965,Leftists,2500,-9,2491
-767,First West Papua,5,Indonesia,Indonesia,"OPM, West Papua",1965,1969,"OPM, West Papua",-9,-9,-18
-768,First Uganda,5,Uganda,Uganda,Buganda Tribe,1966,1966,Buganda Tribe,-9,-9,-18
-770,First Guatemala,4,Guatemala,United States,-8,1966,1968,Leftists,28,-8,20
-770,First Guatemala,4,Guatemala,Guatemala,Leftists,1966,1968,Leftists,200,800,1000
-771,First Chad (FROLINAT) Rebellion,5,Chad,France,-8,1968,1971,Frolinat Rebels,50,-8,42
-771,First Chad (FROLINAT) Rebellion,5,Chad,Chad,Frolinat Rebels,1966,1971,Frolinat Rebels,500,3000,3500
-772,Cultural Revolution Phase 1,6,China,Red Guard,Regional military,1967,1967,Regional military,-9,-9,-18
-773,Third Burmese,5,Burma,Burma,Karens & Communists,1967,1980,Karens,6800,22400,29200
-775,Biafra,5,Nigeria,Nigeria,Biafrans,1967,1970,Nigeria,-9,-9,-18
-776,Cultural Revolution Phase 2,4,China,China,Red Guard,1967,1968,Red Guard,-9,-9,-18
-777,Third Iraqi Kurds,5,Iraq,Iraq,Kurds,1969,1970,Iraq,800,3200,4000
-778,Naxalite Rebellion,5,India,India,Naxalite Marxists,1970,1971,Naxalite Marxists,100,2000,2100
-780,Black September,4,Jordan,-8,Syria,1970,1970,Jordan,-8,100,92
-780,Black September,4,Jordan,Jordan,Palestinians,1970,1970,Jordan,750,2690,3440
-781,Second Guatemala,4,Guatemala,Guatemala,Leftists,1970,1971,Guatemala,50,950,1000
-782,Pakistan-Bengal,5,Pakistan,Pakistan,Bengalis,1971,1971,Pakistan,2500,-9,2491
-783,First Sri Lanka-JVP,4,Sri Lanka,Sri Lanka,Janatha Vimukthi- JVP,1971,1971,Janatha Vimukthi- JVP,53,4000,4053
-785,Khmer Rouge,4,Cambodia,United States of America,-8,1971,1973,Khmer Rouge,375,-8,367
-785,Khmer Rouge,4,Cambodia,Cambodia,Khmer Rouge,1971,1975,Khmer Rouge,45000,40000,85000
-786,First Philippine-Moro,5,Philippines,Philippines,MNLF Moros,1972,1981,MNLF Moros,10000,20000,30000
-787,Communist Insurgency,4,Thailand,Thailand,Communists,1972,1973,Communists,1500,700,2200
-788,Eritrean Split,7,Ethiopia,ELF,EPLF,1972,1974,ELF,-9,-9,-18
-789,First Burundi,4,Burundi,Burundi,Hutu,1972,1972,Hutu,500,1500,2000
-790,Philippines-NPA,4,Philippines,Philippines,NPA,1972,1992,NPA,9000,22000,31000
-791,Rhodesia,4,Rhodesia,Rhodesia,Patriotic Front,1972,1979,Patriotic Front,1000,10000,11000
-792,Baluchi Separatists,5,Pakistan,Pakistan,Baluchi Rebels,1973,1977,Baluchi Rebels,3300,5300,8600
-793,Chilean Coup of 1973,4,Chile,Chile,Pinochet led military,1973,1973,Pinochet,400,3000,3400
-795,Dhofar Rebellion Phase 2,5,Oman,United Kingdom,-8,1973,1975,Oman,35,-8,27
-795,Dhofar Rebellion Phase 2,5,Oman,Iran,-8,1973,1975,Oman,100,-8,92
-795,Dhofar Rebellion Phase 2,5,Oman,Oman,PFLOAG,1973,1975,Oman,370,2500,2870
-797,Fourth Iraqi Kurds,5,Iraq,-8,Iran,1974,1975,Iraq,-8,-9,-17
-797,Fourth Iraqi Kurds,5,Iraq,Iraq,Kurds,1974,1975,Iraq,7000,13000,20000
-798,Eritrean War,5,Ethiopia,Cuba,-8,1976,1978,Eritrean Peo. Lib.,-9,-8,-17
-798,Eritrean War,5,Ethiopia,Ethiopia,Eritrean Peo. Lib.,1975,1978,Eritrean Peo. Lib.,6100,6400,12500
-800,Argentine Leftists,4,Argentina,Argentina,"Montoneros, ERP",1975,1977,"Montoneros, ERP",250,2600,2850
-801,Second Lebanese,7,Lebanon,Maronite militias,Lebanese National Movement,1975,1976,Lebanese National Movement,-9,-9,-18
-801,Second Lebanese,7,Lebanon,Syria,-8,1976,1976,Lebanese National Movement,500,-8,492
-802,Second West Papua,5,Indonesia,Indonesia,"OPR, West Papua",1976,1978,"OPR, West Papua",100,2000,2100
-803,Third Laotian,5,Laos,Laos,Hmong,1976,1979,Hmong,1000,5000,6000
-803,Third Laotian,5,Laos,Vietnam,-8,1976,1979,Hmong,1000,-8,992
-804,Angolan Control,4,Angola,Cuba,-8,1976,1991,UNITA,5500,-8,5492
-804,Angolan Control,4,Angola,Angola,UNITA,1976,1991,UNITA,-9,-9,-18
-804,Angolan Control,4,Angola,-8,South Africa,1976,1989,UNITA,-8,800,792
-805,Second Ogaden Phase 1,5,Ethiopia,Cuba,-8,1976,1977,WSLF,1500,-8,1492
-805,Second Ogaden Phase 1,5,Ethiopia,-8,Somalia,1976,1977,WSLF,-8,1900,1892
-805,Second Ogaden Phase 1,5,Ethiopia,Ethiopia,WSLF,1976,1977,WSLF,9000,20000,29000
-806,East Timorese War Phase 3,5,Indonesia,Indonesia,Fretilin,1976,1979,Fretelin,1800,-9,1791
-807,Third Lebanese,7,Lebanon,Lebanese Forces,PLO & Shiite militia,1978,1978,Syria & PLO,1500,800,2300
-807,Third Lebanese,7,Lebanon,-8,Syria,1978,1978,Syria & PLO,-8,800,792
-807,Third Lebanese,7,Lebanon,Israel,-8,1978,1978,Syria & PLO,-9,-8,-17
-808,Second Ogaden Phase 3,5,Ethiopia,Cuba,-8,1978,1980,"Ogaden, WSLF",-9,-8,-17
-808,Second Ogaden Phase 3,5,Ethiopia,Ethiopia,"Ogaden, WSLF",1978,1980,"Ogaden, WSLF",2000,20000,22000
-808,Second Ogaden Phase 3,5,Ethiopia,-8,Somalia,1980,1980,"Ogaden, WSLF",-8,2000,1992
-809,Third Guatemala,4,Guatemala,Guatemala,The Democratic Front Against Repression (FDCR),1978,1984,Guatemala,1250,4750,6000
-810,Saur Revolution,4,Afghanistan,Afghanistan,Leftist Military,1978,1978,Leftist Military,1800,1200,3000
-811,Fourth DRC (Shaba),4,Democratic Republic of Congo,Belgium,-8,1978,1978,FNLC,-9,-8,-17
-811,Fourth DRC (Shaba),4,Democratic Republic of Congo,France,-8,1978,1978,FNLC,5,-8,-3
-811,Fourth DRC (Shaba),4,Democratic Republic of Congo,DRC,FNLC,1978,1978,FNLC,100,900,1000
-812,First Afghan Mujahideen Uprising,4,Afghanistan,Russia,-8,1979,1980,Mujahedin,2000,-8,1992
-812,First Afghan Mujahideen Uprising,4,Afghanistan,Afghanistan,Mujahideen,1978,1980,Mujahedin,11800,21200,33000
-813,Overthrow of the Shah,4,Iran,Iran,Anti-Shah Coalition,1978,1979,Iran,100,1000,1100
-815,Sandinista Rebellion,4,Nicaragua,Nicaragua,Sandinistas,1978,1979,Sandinistas,1000,3000,4000
-816,Anti-Khomeini Coalition,4,Iran,Iran,Anti-Khmoneini Coalition: Fedayeen Kalq & Kurds,1979,1984,Coalition,-9,-9,-18
-817,El Salvador,4,El Salvador,El Salvador,Salvadorean Democratic Front,1979,1992,Salvadorean Democratic Front,-9,-9,-18
-818,Mozambique,4,Mozambique,Tanzania,-8,1985,1992,Renamo,50,-8,42
-818,Mozambique,4,Mozambique,Mozambique,Renamo,1979,1992,Renamo,-9,-9,-18
-818,Mozambique,4,Mozambique,Zimbabwe,-8,1982,1992,Renamo,500,-8,492
-820,Second Chad (Habre Revolt),5,Chad,-8,France,1983,1984,FAN,-8,200,192
-820,Second Chad (Habre Revolt),5,Chad,Chad,FAN,1980,1984,FAN,3500,1500,5000
-820,Second Chad (Habre Revolt),5,Chad,Libya,-8,1980,1981,FAN,1000,-8,992
-822,Second Uganda,5,Uganda,Uganda,National Resistance Army,1980,1986,National Resistance Army,40000,6000,46000
-823,Nigeria-Muslim,5,Nigeria,Nigeria,Muslim fundamentalists,1980,1981,Muslim fundamentalists,50,1000,1050
-825,Hama,4,Syria,Syria,Muslim Brotherhood,1981,1982,Muslim Brotherhood,1000,2000,3000
-826,Tigrean and Eritrean,5,Ethiopia,Ethiopia,Tigray & Eritrea,1982,1991,Tigray & Eritrea,10000,65000,75000
-827,Shining Path,4,Peru,Peru,Shining Path & TARM,1982,1992,Shining Path,4000,12000,16000
-828,Contra War,4,Nicaragua,Nicaragua,Contras,1982,1990,Contras,7000,25200,32200
-831,Matabeleland,4,Zimbabwe,Zimbabwe,ZAPU,1983,1987,Zimbabwe,-9,-9,-18
-832,Fourth Burmese,5,Burma,Burma,Karen & Kachin Rebels,1983,1988,Kachin Rebels,2800,1200,4000
-833,Fourth Lebanese Civil,4,Lebanon,United States,-8,1983,1984,Druze,273,-8,265
-833,Fourth Lebanese Civil,4,Lebanon,France,-8,1983,1984,Druze,95,-8,87
-833,Fourth Lebanese Civil,4,Lebanon,Lebanon,Shi'ites & Druze,1983,1984,Druze,-9,-9,-18
-835,First Sri Lanka Tamil,5,Sri Lanka,India,-8,1987,1990,Tamils,1155,-8,1147
-835,First Sri Lanka Tamil,5,Sri Lanka,Sri Lanka,Tamils,1983,2002,Tamils,8500,17000,25500
-836,Second South Sudan,4,Sudan,Sudan,SPLA-Garang faction,1983,1991,SPLA-Garang faction,-9,-9,-18
-837,Indian Golden Temple,5,India,India,Sikhs,1984,1984,India,-9,1200,1191
-838,First Turkish Kurds,5,Turkey,Turkey,"Kurds, PKK",1984,1986,"Kurds, PKK",1500,9000,10500
-840,Fifth Iraqi  Kurds,5,Iraq,-8,Iran,1985,1988,Kurds,-8,-9,-17
-840,Fifth Iraqi  Kurds,5,Iraq,Iraq,Kurds,1985,1988,Kurds,-9,-9,-18
-842,South Yemen,4,Yemen ,Yemen People's Republic,Leftist Factions,1986,1986,PDRY,4200,8800,13000
-843,Holy Spirit Movement,4,Uganda,Uganda,HSMF,1986,1987,HSMF,2000,5000,7000
-845,Second Sri Lanka-JVP,4,Sri Lanka,Sri Lanka,JVP,1987,1989,JVP,-9,-9,-18
-846,Inkatha-ANC,7,Inkatha,Inkatha,ANC,1987,1994,Inkatha,-9,-9,-18
-847,Fifth Burmese,4,Burma,Burma,Pro-democracy,1988,1988,Pro-democracy,-9,-9,-18
-848,First Somalia,4,Somalia,Somalia,rebel clans,1988,1991,USC,-9,-9,-18
-850,Fifth Lebanese,4,Lebanon,-8,Syria,1989,1990,Lebanon,-8,150,142
-850,Fifth Lebanese,4,Lebanon,Lebanon,militias,1989,1990,Lebanon,-9,2500,2491
-851,Second Afghan Mujahideen Uprising,4,Afghanistan,Afghanistan,Mujahadin,1989,2001,Mujahadin,-9,-9,-18
-852,Third Chad (Deby Coup),4,Chad,Chad,Deby's MPS,1989,1990,Deby,3000,800,3800
-853,First Aceh,5,Indonesia,Indonesia,GAM,1989,1991,GAM,-9,-9,-18
-854,Bougainville Secession,5,Papua New Guinea,Papua New Guinea,BRA,1989,1992,P.N.G.,-9,-9,-18
-856,Eighth Colombia,5,Colombia,Colombia,FARC & Drug Lords,1989,-7,Drug Lords & FARC,"10,480","17,681",28161
-857,First Cambodian Civil War,4,Cambodia,Cambodia,Khmer Rouge & KPNFL,1989,1991,Khmer Rouge & KPNFL,-9,-9,-18
-858,Romania,4,Romania,Romania,Anti-Ceaucescu Rebels,1989,1989,Anti-Ceaucescu Rebels,300,700,1000
-860,First Liberia,4,Liberia,Liberia,NPFL,1989,1990,NPFL,-9,-9,-18
-860,First Liberia,4,Liberia,Nigeria,-8,1990,1990,NPFL,0,-8,-8
-861,Kashmir Insurgents,5,India,India,Kashmiri Guerillas,1990,2005,Kashmiri Guerillas,6000,21700,27700
-862,Shiite and Kurdish,5,Iraq,Iraq,Shiites & Kurds,1991,1991,Shiites,-9,-9,-18
-863,First Sierra Leone,4,Sierra Leone,Sierra Leone,RUF,1991,1996,RUF,-9,-9,-18
-864,Croatian Independence,5,Croatia,Yugoslavia/Serbia,Croatia,1991,1992,Yugoslavia,-9,-9,-18
-865,Second Turkish Kurds,5,Turkey,Turkey,"Kurds, PKK",1991,1999,"Kurds, PKK",3500,13000,16500
-866,The SPLA Division (Dinka-Nuer) War,7,Sudan,Garang faction,Nuer faction,1991,1992,Nuer faction,-9,-9,-18
-868,Jukun-Tiv War,7,Nigeria,Jukun,Tiv,1991,1992,Tiv,-9,-9,-18
-870,Second Somalia,4,Somalia,Nigeria,-8,1992,1995,Aideed Faction,-9,-8,-17
-870,Second Somalia,4,Somalia,Somalia,Aideed Faction,1991,1997,Aideed Faction,-9,-9,-18
-870,Second Somalia,4,Somalia,Pakistan,-8,1992,1995,Aideed Faction,24,-8,16
-870,Second Somalia,4,Somalia,Australia,-8,1992,1995,Aideed Faction,-9,-8,-17
-870,Second Somalia,4,Somalia,France,-8,1992,1995,Aideed Faction,2,-8,-6
-870,Second Somalia,4,Somalia,United States of America,-8,1992,1994,Aideed Faction,44,-8,36
-870,Second Somalia,4,Somalia,Italy,-8,1992,1995,Aideed Faction,-9,-8,-17
-871,Georgia,4,Georgia,Georgia,Reform,1991,1992,Reform,-9,-9,-18
-872,Nagorno-Karabakh,5,Azerbaijan,-8,Armenia,1991,1993,Nagorno-Karabakh,-8,1000,992
-872,Nagorno-Karabakh,5,Azerbaijan,Azerbaijan,Nagorno-Karabakh,1991,1993,Nagorno-Karabakh,7000,3000,10000
-873,Dniestrian Independence,5,Dniestria,Moldova,Dniestria,1991,1992,Dniestria,-9,-9,-18
-875,Algerian Islamic Front,4,Algeria,Algeria,Islamic Front,1992,1999,Algeria,-9,-9,-18
-876,Tajikistan,4,Tajikistan,Russia,-8,1993,1997,United Tajik Opposition,-9,-8,-17
-876,Tajikistan,4,Tajikistan,Tadzhikistan,United Tajik Opposition,1992,1997,United Tajik Opposition,-9,-9,-18
-877,Bosnian-Serb Rebellion,5,Bosnia,Bosnia,Bosnian Serbs,1992,1994,Bosnian Serbs,27500,18543,46043
-877,Bosnian-Serb Rebellion,5,Bosnia,United States,-8,1995,1995,Bosnian Serbs,0,-8,-8
-877,Bosnian-Serb Rebellion,5,Bosnia,-8,Croatia,1994,1994,Bosnian Serbs,-8,185,177
-877,Bosnian-Serb Rebellion,5,Bosnia,Croatia,-8,1992,1994,Bosnian Serbs,-9,-8,-17
-878,Second Liberia,4,Liberia,Liberia,NPFL & ULIMO,1992,1995,NPFL & ULIMO,-9,-9,-18
-878,Second Liberia,4,Liberia,Nigeria,-8,1992,1992,NPFL & ULIMO,-9,-8,-17
-880,Angolan War of the Cities,4,Angola,Angola,UNITA,1992,1994,UNITA,-9,-9,-18
-881,Second Cambodia Civil,4,Cambodia,Cambodia,Khmer Rouge,1993,1997,Khmer Rouge,-9,-9,-18
-882,Abkhazia Revolt,5,Abkhazia,Georgia,Abkhazia,1993,1994,Georgia,5000,3000,8000
-883,Second Burundi,4,Burundi,Burundi,Tutsi army,1993,1998,Tutsi army,-9,-9,-18
-885,South Yemeni Secessionist,5,Yemen,Yemen,South Yemen,1994,1994,South Yemen,-9,-9,-18
-886,Second Rwanda,4,Rwanda,Rwanda,Patriotic Front,1994,1994,Patriotic Front,-9,-9,-18
-888,First Chechnya,5,Chechnya,Russia,Chechnya,1994,1996,Chechnya,4000,6000,10000
-890,Iraqi Kurd Internecine,7,Iraq,PUK,KDP,1994,1995,KDP,-9,-9,-18
-891,Croatia-Krajina War,5,Croatia,Croatia,Krajinia Serbs,1995,1995,Krajinian Serba,-9,-9,-18
-892,Third Liberia,4,Liberia,Liberia,NPFL,1996,1996,National Patriotic Forces,-9,-9,-18
-893,Sixth Iraqi Kurds,5,Iraq,Iraq,PUK,1996,1996,PUK,-9,-9,-18
-895,Fifth DRC,4,Democratic Republic of Congo,-8,Uganda,1997,1997,Kabila-ADFL,-8,-9,-17
-895,Fifth DRC,4,Democratic Republic of Congo,-8,Rwanda,1997,1997,Kabila-ADFL,-8,-9,-17
-895,Fifth DRC,4,Democratic Republic of Congo,-8,Angola,1997,1997,Kabila-ADFL,-8,-9,-17
-895,Fifth DRC,4,Democratic Republic of Congo,DRC,ADFL,1996,1997,Kabila-ADFL,-9,-9,-18
-896,Third Rwanda,4,Rwanda,Rwanda,Hutu rebels,1997,1998,Hutu rebels,300,3000,3300
-897,First Congo (Brazzaville),4,Democratic Republic of Congo,-8,Angola,1997,1997,FDU,-8,-9,-17
-897,First Congo (Brazzaville),4,Democratic Republic of Congo,Congo,FDU (Cobra militia),1997,1997,FDU (Cobra militia),-9,-9,-18
-898,Second Sierra Leone,4,Sierra Leone,Sierra Leone,Kabbah faction,1998,1999,Kabbah faction,-9,-9,-18
-898,Second Sierra Leone,4,Sierra Leone,-8,Ghana,1998,1999,Kabbah faction,-8,-9,-17
-898,Second Sierra Leone,4,Sierra Leone,-8,Nigeria,1998,1999,Kabbah faction,-8,-9,-17
-898,Second Sierra Leone,4,Sierra Leone,-8,Guinea,1998,1999,Kabbah faction,-8,-9,-17
-898,Second Sierra Leone,4,Sierra Leone,-8,United Kingdom,2000,2000,Kabbah faction,-8,-9,-17
-900,Kosovo Independence,5,Kosovo,Yugoslavia,KLA,1998,1999,Yugoslavia,400,800,1200
-902,Guinea-Bissau Military,4,Guinea,Guinea,-8,1998,1998,Mané Junta,-9,-8,-17
-902,Guinea-Bissau Military,4,Guinea,Guinea-Bissau,Mané Junta,1998,1999,Mané Junta,-9,-9,-18
-902,Guinea-Bissau Military,4,Guinea,Senegal,-8,1998,1998,Mané Junta,-9,-8,-17
-905,Africa's World War,4,Democratic Republic of Congo,Angola,-8,1998,2002,,-9,-8,-17
-905,Africa's World War,4,Democratic Republic of Congo,Sudan,-8,1998,2002,,-9,-8,-17
-905,Africa's World War,4,Democratic Republic of Congo,Namibia,-8,1998,2001,,-9,-8,-17
-905,Africa's World War,4,Democratic Republic of Congo,Zimbabwe,-8,1998,2002,,-9,-8,-17
-905,Africa's World War,4,Democratic Republic of Congo,-8,Rwanda,1998,2002,,-8,-9,-17
-905,Africa's World War,4,Democratic Republic of Congo,-8,Burundi,1998,2002,,-8,-9,-17
-905,Africa's World War,4,Democratic Republic of Congo,-8,Uganda,1998,2002,,-8,-9,-17
-905,Africa's World War,4,Democratic Republic of Congo,Chad,-8,1998,1999,,-9,-8,-17
-905,Africa's World War,4,Democratic Republic of Congo,Democratic Republic of Congo,"RCD, MLC, et al",1998,2002,"RCD, MLC, et al",-9,-9,-18
-906,Fourth Chad (Togoimi Revolt),4,Chad,Chad,MDD & MDJT,1998,2000,MDD & MDJT,-9,-9,-18
-907,Third Angolan,4,Angola,Angola,UNITA,1998,2002,Angola,-9,-9,-18
-908,Second Congo (Brazzaville),4,Congo,Congo (Brazzaville),Ninjas and Cocoye militias,1998,1999,Ninjas and Cocoye militias,-9,-9,-18
-910,Moluccas Sectarian,7,Laskar Jihad,Laskar Jihad,FKM & RMS,1999,2000,Laskar Jihad,-9,1800,1791
-911,First Nigeria Christian-Muslim,7,Nigeria,Christian Tarok,Muslim Fulani,1999,2000,Muslim Fulani,-9,-9,-18
-912,Second Aceh,5,Indonesia,Indonesia,GAM,1999,2002,GAM,330,3500,3830
-913,Oromo Liberation,5,Ethiopia,Ethiopia,Oromo Lib. Front,1999,1999,Oromo Lib. Front,200,800,1000
-915,Second Chechen,5,Chechnya,Russia,Chechnya,1999,2003,Cechnya,5000,15000,20000
-916,Second Philippine-Moro,5,Philippines,Philippines,MILF,2000,2001,Phillippines,-9,-9,-18
-917,Guinean,4,Guinea ,Guinea ,RDFG,2000,2001,RDFG,-9,-9,-18
-918,Third Burundi,4,Burundi,Burundi,FNL & FROLINA,2001,2003,FNL,150,3000,3150
-920,Fourth Rwanda,4,Rwanda,Rwanda,Army for the Liberation of Rwanda,2001,2001,ALIR,-9,1800,1791
-921,First Nepal Maoist Insurgency,4,Nepal ,Nepal ,CPN,2001,2003,CPN,680,3100,3780
-922,Fourth Liberian,4,Liberia,Liberia,LURD & MODEL,2002,2003,LURD & MODEL,-9,-9,-18
-923,Ethiopian Anyuaa-Nuer,7,Anyuaa,Anyuaa,Nuer,2002,2003,Nuer,-9,-9,-18
-925,Cote d'Ivoire Military,4,Cote d'Ivoire,France,-8,2002,2004,"MPCI, MPIGO, MJP",9,-8,1
-925,Cote d'Ivoire Military,4,Cote d'Ivoire,Cote d'Ivoire,"MPCI, MPIGO, MJP",2002,2004,"MPCI, MPIGO, MJP",200,2500,2700
-926,Third Philippine-Moro,5,Phillippines,Phillippines,MILF & ASG,2003,2003,Phillippines,410,590,1000
-927,Darfur,5,Sudan,Sudan,SLA & JEM,2003,2006,SLA,-9,-9,-18
-930,Third Aceh,5,Indonesia,Indonesia,GAM,2003,2003,Indonesia,150,1400,1550
-931,Second Nepal Maoists,4,Nepal,Nepal,CPN,2003,2006,CPN,1260,5770,7030
-932,Waziristan,5,Pakistan,United States,-8,2004,2006,US & Pakistan,-9,-8,-17
-932,Waziristan,5,Pakistan,Pakistan,Waziri tribes,2004,2006,US & Pakistan,1200,1800,3000
-933,Second Nigeria Christian-Muslim,7,Nigeria,Christian Tarok,Muslim Fulani,2004,2004,Muslim Fulani,-9,-9,-18
-935,First Yemeni Cleric,4,Yemen,Yemen,Zaidi Muslims,2004,2005,Zaidi Muslims,900,1350,2250
-936,Philippine Joint Offensive,5,Phillippines,Phillippines,MILF & NPA,2005,2006,Phillippines,723,2100,2823
-937,Fifth Chad,4,Chad,Chad,FUDC,2005,2006,FUDC,100,1000,1100
-938,Third Somalia,4,Somalia,United States,-8,2007,2007,SCIC,-9,-8,-17
-938,Third Somalia,4,Somalia,Somalia,SCIC,2006,2008,SCIC,-9,-9,-18
-938,Third Somalia,4,Somalia,Ethiopia,-8,2006,2008,SCIC,-9,-8,-17
-938,Third Somalia,4,Somalia,-8,Eritrea,2006,2008,SCIC,-8,-9,-17
-940,Second Sri Lanka Tamil,5,Sri Lanka,Sri Lanka,LTTE,2006,2006,Sri Lanka,-9,-9,-18
-941,Second Yemeni Cleric,4,Yemen,Yemen,Zaidi Muslims,2007,2007,Zaidi Muslims,1500,2000,3500
-Inter_State,,,,,,,,,,,
-151,Korean,1,South Korea,China,,1950,1953,2,,,422612
-151,Korean,1,South Korea,Belgium,,1951,1953,2,,,97
-151,Korean,1,South Korea,Canada,,1950,1953,2,,,309
-151,Korean,1,South Korea,Colombia,,1951,1953,2,,,140
-151,Korean,1,South Korea,United Kingdom,,1950,1953,2,,,710
-151,Korean,1,South Korea,Netherlands,,1951,1953,2,,,111
-151,Korean,1,South Korea,Greece,,1951,1953,2,,,169
-151,Korean,1,South Korea,France,,1951,1953,2,,,288
-151,Korean,1,South Korea,Turkey,,1950,1953,2,,,717
-151,Korean,1,South Korea,Philippines,,1950,1953,2,,,92
-151,Korean,1,South Korea,Thailand,,1951,1953,2,,,114
-151,Korean,1,South Korea,North Korea,,1950,1953,1,,,316579
-151,Korean,1,South Korea,Ethiopia,,1951,1953,2,,,120
-151,Korean,1,South Korea,Australia,,1950,1953,2,,,291
-151,Korean,1,South Korea,South Korea,,1950,1953,2,,,113248
-151,Korean,1,South Korea,United States of America,,1950,1953,2,,,54487
-153,Off-shore Islands,1,Taiwan,China,,1954,1955,1,,,1003
-153,Off-shore Islands,1,Taiwan,Taiwan,,1954,1955,2,,,1367
-155,Sinai War,1,Egypt,France,,1956,1956,2,,,10
-155,Sinai War,1,Egypt,Israel,,1956,1956,1,,,189
-155,Sinai War,1,Egypt,Egypt,,1956,1956,2,,,3000
-155,Sinai War,1,Egypt,United Kingdom,,1956,1956,2,,,22
-156,Soviet Invasion of Hungary,1,Hungary,Hungary,,1956,1956,2,,,926
-156,Soviet Invasion of Hungary,1,Hungary,USSR,,1956,1956,1,,,1500
-158,IfniWar,1,Morocco,France,,1958,1958,2,,,0
-158,IfniWar,1,Morocco,Spain,,1957,1958,2,,,122
-158,IfniWar,1,Morocco,Morocco,,1957,1958,1,,,1000
-159,Taiwan Straits,1,Taiwan ,China (PRC),,1958,1958,1,,,300
-159,Taiwan Straits,1,Taiwan ,Taiwan (ROC),,1958,1958,2,,,1500
-160,Assam,1,India,India,,1962,1962,2,,,1353
-160,Assam,1,India,China (PRC),,1962,1962,1,,,500
-163,"Vietnam War, Phase 2",1,Vietnam,United States of America,,1965,1973,1,,,58153
-163,"Vietnam War, Phase 2",1,Vietnam,Cambodia,,1970,1975,2,,,2500
-163,"Vietnam War, Phase 2",1,Vietnam,South Korea,,1965,1973,2,,,4687
-163,"Vietnam War, Phase 2",1,Vietnam,Philippines,,1966,1973,2,,,1000
-163,"Vietnam War, Phase 2",1,Vietnam,South Vietnam,,1965,1975,2,,,254257
-163,"Vietnam War, Phase 2",1,Vietnam,Vietnam,,1965,1975,2,,,700000
-163,"Vietnam War, Phase 2",1,Vietnam,Thailand,,1967,1973,2,,,351
-163,"Vietnam War, Phase 2",1,Vietnam,Australia,,1965,1972,2,,,494
-166,Second Kashmir,1,India,India,,1965,1965,2,,,3261
-166,Second Kashmir,1,India,Pakistan,,1965,1965,1,,,3800
-169,Six Day War,1,Israel,Israel,,1967,1967,1,,,1000
-169,Six Day War,1,Israel,Egypt,,1967,1967,2,,,10000
-169,Six Day War,1,Israel,Jordan,,1967,1967,2,,,6100
-169,Six Day War,1,Israel,Syria,,1967,1967,2,,,2500
-170,"Second Laotian, Phase 2",1,Laos,United States of America,,1968,1973,2,,,375
-170,"Second Laotian, Phase 2",1,Laos,Thailand,,1970,1973,2,,,-9
-170,"Second Laotian, Phase 2",1,Laos,Laos,,1968,1973,2,,,11250
-170,"Second Laotian, Phase 2",1,Laos,Vietnam,,1968,1973,1,,,2250
-172,War of Attrition,1,Israel,Egypt,,1969,1970,1,,,5000
-172,War of Attrition,1,Israel,Israel,,1969,1970,2,,,368
-175,Football War,1,El Salvador,Honduras,,1969,1969,2,,,1200
-175,Football War,1,El Salvador,El Salvador,,1969,1969,1,,,700
-176,Communist Coalition,1,Vietnam,Vietnam,,1970,1971,1,,,400
-176,Communist Coalition,1,Vietnam,United States of America,,1970,1971,2,,,125
-176,Communist Coalition,1,Vietnam,Cambodia,,1970,1971,2,,,5000
-176,Communist Coalition,1,Vietnam,South Vietnam,,1970,1971,2,,,1000
-178,Bangladesh,1,India,India,,1971,1971,2,,,3241
-178,Bangladesh,1,India,Pakistan,,1971,1971,1,,,7982
-181,Yom Kippur War,1,Egypt,Egypt,,1973,1973,1,,,7700
-181,Yom Kippur War,1,Egypt,Saudi Arabia,,1973,1973,2,,,100
-181,Yom Kippur War,1,Egypt,Israel,,1973,1973,2,,,2838
-181,Yom Kippur War,1,Egypt,Jordan,,1973,1973,2,,,23
-181,Yom Kippur War,1,Egypt,Syria,,1973,1973,1,,,3500
-181,Yom Kippur War,1,Egypt,Iraq,,1973,1973,2,,,278
-184,Turco-Cypriot,1,Cyprus,Turkey,,1974,1974,1,,,1000
-184,Turco-Cypriot,1,Cyprus,Cyprus,,1974,1974,2,,,500
-186,War over Angola,1,Angola,Cuba,,1975,1976,2,,,1500
-186,War over Angola,1,Angola,South Africa,,1975,1976,1,,,100
-186,War over Angola,1,Angola,Democratic Republic of the Congo,,1975,1976,2,,,100
-186,War over Angola,1,Angola,Angola,,1975,1976,2,,,1000
-187,"Second Ogaden War, Phase 2",1,Ethiopia,Ethiopia,,1977,1978,2,,,1800
-187,"Second Ogaden War, Phase 2",1,Ethiopia,Cuba,,1977,1978,2,,,700
-187,"Second Ogaden War, Phase 2",1,Ethiopia,Somalia,,1977,1978,1,,,8000
-189,Vietnamese-Cambodian,1,Vietnam,Vietnam,,1977,1979,2,,,3000
-189,Vietnamese-Cambodian,1,Vietnam,Cambodia,,1977,1979,1,,,5000
-190,Ugandian-Tanzanian,1,Uganda,Uganda,,1978,1979,1,,,1500
-190,Ugandian-Tanzanian,1,Uganda,Tanzania,,1978,1979,2,,,1000
-190,Ugandian-Tanzanian,1,Uganda,Libya,,1979,1979,2,,,500
-193,Sino-Vietnamese Punitive,1,Vietnam,China,,1979,1979,1,,,13000
-193,Sino-Vietnamese Punitive,1,Vietnam,Vietnam,,1979,1979,2,,,8000
-199,Iran-Iraq,1,Iraq,Iraq,,1980,1988,1,,,500000
-199,Iran-Iraq,1,Iraq,Iran,,1980,1988,2,,,750000
-202,Falkland Islands,1,Falkland Islands,United Kingdom,,1982,1982,2,,,255
-202,Falkland Islands,1,Falkland Islands,Argentina,,1982,1982,1,,,746
-205,War over Lebanon,1,Lebanon,Israel,,1982,1982,1,,,455
-205,War over Lebanon,1,Lebanon,Syria,,1982,1982,2,,,1200
-207,War over the Aouzou Strip,1,Chad,Chad,,1986,1987,1,,,1000
-207,War over the Aouzou Strip,1,Chad,Libya,,1986,1987,2,,,7000
-208,Sino-Vietnamese Border War,1,Vietnam,Vietnam,,1987,1987,2,,,2200
-208,Sino-Vietnamese Border War,1,Vietnam,China,,1987,1987,1,,,1800
-211,Gulf War,1,Kuwait,Kuwait,,1990,1991,2,,,1000
-211,Gulf War,1,Kuwait,United States of America,,1991,1991,2,,,376
-211,Gulf War,1,Kuwait,Canada,,1991,1991,2,,,0
-211,Gulf War,1,Kuwait,United Kingdom,,1991,1991,2,,,24
-211,Gulf War,1,Kuwait,Italy,,1991,1991,2,,,0
-211,Gulf War,1,Kuwait,Morocco,,1991,1991,2,,,0
-211,Gulf War,1,Kuwait,Iraq,,1990,1991,1,,,40000
-211,Gulf War,1,Kuwait,Egypt,,1991,1991,2,,,14
-211,Gulf War,1,Kuwait,Oman,,1991,1991,2,,,0
-211,Gulf War,1,Kuwait,France,,1991,1991,2,,,2
-211,Gulf War,1,Kuwait,United Arab Emirates,,1991,1991,2,,,6
-211,Gulf War,1,Kuwait,Qatar,,1991,1991,2,,,0
-211,Gulf War,1,Kuwait,Saudi Arabia,,1991,1991,2,,,44
-211,Gulf War,1,Kuwait,Syria,,1991,1991,2,,,0
-215,Bosnian Independence,1,Bosnia,Croatia,,1992,1992,2,,,500
-215,Bosnian Independence,1,Bosnia,Bosnia,,1992,1992,2,,,2850
-215,Bosnian Independence,1,Bosnia,Yugoslavia,,1992,1992,1,,,1890
-216,Azeri-Armenian,1,Armenia,Azerbaijan,,1993,1994,2,,,8500
-216,Azeri-Armenian,1,Armenia,Armenia,,1993,1994,1,,,5500
-217,Cenepa Valley,1,Peru,Ecuador,,1995,1995,1,,,550
-217,Cenepa Valley,1,Peru,Peru,,1995,1995,2,,,950
-219,Badme Border,1,Ethiopia,Eritrea,,1998,2000,1,,,50000
-219,Badme Border,1,Ethiopia,Ethiopia,,1998,2000,2,,,70000
-221,War for Kosovo,1,Kosovo,Turkey,,1999,1999,1,,,0
-221,War for Kosovo,1,Kosovo,Italy,,1999,1999,1,,,0
-221,War for Kosovo,1,Kosovo,United Kingdom,,1999,1999,1,,,0
-221,War for Kosovo,1,Kosovo,United States of America,,1999,1999,1,,,2
-221,War for Kosovo,1,Kosovo,Netherlands,,1999,1999,1,,,0
-221,War for Kosovo,1,Kosovo,France,,1999,1999,1,,,0
-221,War for Kosovo,1,Kosovo,Yugoslavia,,1999,1999,2,,,5000
-221,War for Kosovo,1,Kosovo,Germany,,1999,1999,1,,,0
-223,Kargil War,1,"Kargil, India",India,,1999,1999,2,,,474
-223,Kargil War,1,"Kargil, India",Pakistan,,1999,1999,1,,,698
-225,Invasion of Afghanistan,1,Afghanistan,Canada,,2001,2001,2,,,0
-225,Invasion of Afghanistan,1,Afghanistan,France,,2001,2001,2,,,0
-225,Invasion of Afghanistan,1,Afghanistan,United Kingdom,,2001,2001,1,,,0
-225,Invasion of Afghanistan,1,Afghanistan,United States of America,,2001,2001,1,,,2
-225,Invasion of Afghanistan,1,Afghanistan,Australia,,2001,2001,2,,,0
-225,Invasion of Afghanistan,1,Afghanistan,Afghanistan,,2001,2001,2,,,4000
-227,Invasion of Iraq,1,Iraq,Australia,,2003,2003,1,,,0
-227,Invasion of Iraq,1,Iraq,United Kingdom,,2003,2003,1,,,33
-227,Invasion of Iraq,1,Iraq,United States of America,,2003,2003,1,,,140
-227,Invasion of Iraq,1,Iraq,Iraq,,2003,2003,2,,,7000
+Type,WarNum,WarName,Ccode,WarType,WhereFought,SideA1,SideB1,StartYear,EndYear,Initiator,SideADeaths,SideBDeaths,Total Deaths
+Non_State,1574,Rwandan Social Revolution,RW,,,,,1960,,,,,100
+Non_State,1574,Rwandan Social Revolution,RW,,,,,1961,,,,,100
+Non_State,1574,Rwandan Social Revolution,RW,,,,,1962,,,,,100
+Non_State,1577,Dhofar Rebellion Phase 1,OM,8,Oman,Dhofar,Oman,1968,1971,Dhofar,-9,-9,5000
+Non_State,1577,Dhofar Rebellion Phase 1,OM,,,,,1969,,,,,5000
+Non_State,1577,Dhofar Rebellion Phase 1,OM,,,,,1970,,,,,5000
+Non_State,1577,Dhofar Rebellion Phase 1,OM,,,,,1971,,,,,5000
+Non_State,1581,Angola Guerilla War,AO,8,Angola,MPLA,FLNA,1974,1975,MPLA,-9,-9,100
+Non_State,1581,Angola Guerilla War,AO,,,,,1975,,,,,100
+Non_State,1582,East Timorese War Phase 1,ID,8,Indonesia,Fretilin,UDT,1975,1975,Fretilin,-9,-9,3000
+Non_State,1594,Hemda-Lendu War,CG,9,Democratic Republic of Congo,Hemda,Lendu,1999,2005,Hemda,-9,-9,100
+Non_State,1594,Hemda-Lendu War,CG,,,,,2000,,,,,100
+Non_State,1594,Hemda-Lendu War,CG,,,,,2001,,,,,100
+Non_State,1594,Hemda-Lendu War,CG,,,,,2002,,,,,100
+Non_State,1594,Hemda-Lendu War,CG,,,,,2003,,,,,100
+Non_State,1594,Hemda-Lendu War,CG,,,,,2004,,,,,100
+Non_State,1594,Hemda-Lendu War,CG,,,,,2005,,,,,100
+Intra_State,733,South Moluccas,ID,5,Indonesia,Indonesia,Moluccans,1950,1950,Moluccans,-9,-9,100
+Intra_State,735,Hukbalahap Rebellion,PH,4,Philippines,Philippines,Huks,1950,1954,Huks,1600,9700,11300
+Intra_State,735,Hukbalahap Rebellion,PH,,,,,1951,,,,,11300
+Intra_State,735,Hukbalahap Rebellion,PH,,,,,1952,,,,,11300
+Intra_State,735,Hukbalahap Rebellion,PH,,,,,1953,,,,,11300
+Intra_State,735,Hukbalahap Rebellion,PH,,,,,1954,,,,,11300
+Intra_State,737,Bolivia,BO,4,Bolivia,Bolivia,Leftists,1952,1952,Leftists,-9,-9,100
+Intra_State,738,Indonesia Darul Islam,ID,4,Indonesia,Indonesia,Darul Islam,1953,1953,Darul Islam,1700,1000,2700
+Intra_State,740,Argentine Military,AR,4,Argentina,Argentina,Military,1955,1955,Army,-9,-9,100
+Intra_State,741,Tibetan Khamba Rebellion,CN,5,Tibet,China,Khamba Tibetans,1956,1959,Khamba Tibetans,4000,12000,16000
+Intra_State,741,Tibetan Khamba Rebellion,CN,,,,,1957,,,,,16000
+Intra_State,741,Tibetan Khamba Rebellion,CN,,,,,1958,,,,,16000
+Intra_State,741,Tibetan Khamba Rebellion,CN,,,,,1959,,,,,16000
+Intra_State,742,Indonesian Leftists,ID,4,Indonesia,Indonesia,Leftists,1956,1962,Leftists,3700,23500,27200
+Intra_State,742,Indonesian Leftists,ID,,,,,1957,,,,,27200
+Intra_State,742,Indonesian Leftists,ID,,,,,1958,,,,,27200
+Intra_State,742,Indonesian Leftists,ID,,,,,1959,,,,,27200
+Intra_State,742,Indonesian Leftists,ID,,,,,1960,,,,,27200
+Intra_State,742,Indonesian Leftists,ID,,,,,1961,,,,,27200
+Intra_State,742,Indonesian Leftists,ID,,,,,1962,,,,,27200
+Intra_State,743,First Lebanese,LB,4,Lebanon,United States of America,-8,1958,1958,Leftists,1,-8,100
+Intra_State,743,First Lebanese,LB,4,Lebanon,Lebanon,National Front,1958,1958,Leftists,-9,-9,100
+Intra_State,746,Second Burmese,MM,4,Burma,Burma,Karens & Communists,1958,1960,Karens & Communists,850,2300,3150
+Intra_State,746,Second Burmese,MM,,,,,1959,,,,,3150
+Intra_State,746,Second Burmese,MM,,,,,1960,,,,,3150
+Intra_State,747,Iraq-Shammar,IQ,4,Iraq,Iraq,Shammar Tribe & Pro-WesternOfficers,1959,1959,Shammar Tribe & Pro-WesternOfficers,-9,-9,100
+Intra_State,748,Vietnam Phase 1,VN,4,Vietnam,United States of America,-8,1961,1965,NLF,506,-8,498
+Intra_State,748,Vietnam Phase 1,VN,,,,,1962,,,,,498
+Intra_State,748,Vietnam Phase 1,VN,,,,,1963,,,,,498
+Intra_State,748,Vietnam Phase 1,VN,,,,,1964,,,,,498
+Intra_State,748,Vietnam Phase 1,VN,,,,,1965,,,,,498
+Intra_State,748,Vietnam Phase 1,VN,4,Vietnam,"Vietnam, Republic of",NLF,1960,1965,NLF,23300,76900,100200
+Intra_State,748,Vietnam Phase 1,VN,,,,,1961,,,,,100200
+Intra_State,748,Vietnam Phase 1,VN,,,,,1962,,,,,100200
+Intra_State,748,Vietnam Phase 1,VN,,,,,1963,,,,,100200
+Intra_State,748,Vietnam Phase 1,VN,,,,,1964,,,,,100200
+Intra_State,748,Vietnam Phase 1,VN,,,,,1965,,,,,100200
+Intra_State,750,First DRC (Zaire),CG,5,Democratic Republic of Congo,-8,Belgium,1960,1960,Katanga & Leftists,-8,50,42
+Intra_State,750,First DRC (Zaire),CG,5,Democratic Republic of Congo,Zaire,Katanga & Leftists,1960,1963,Katanga & Leftists,-9,-9,100
+Intra_State,750,First DRC (Zaire),CG,,,,,1961,,,,,100
+Intra_State,750,First DRC (Zaire),CG,,,,,1962,,,,,100
+Intra_State,750,First DRC (Zaire),CG,,,,,1963,,,,,100
+Intra_State,751,First Laotian,LA,4,Laos,-8,"Vietnam, Democratic Rep.",1961,1962,Pathet Lao,-8,-9,100
+Intra_State,751,First Laotian,LA,4,Laos,Laos,Pathet Lao,1960,1962,Pathet Lao,4000,1000,5000
+Intra_State,751,First Laotian,LA,,,,,1961,,,,,5000
+Intra_State,751,First Laotian,LA,,,,,1962,,,,,5000
+Intra_State,752,First Iraqi Kurd,IQ,5,Iraq,Iraq,Kurds,1961,1963,Kurds,500,2000,2500
+Intra_State,752,First Iraqi Kurd,IQ,,,,,1962,,,,,2500
+Intra_State,752,First Iraqi Kurd,IQ,,,,,1963,,,,,2500
+Intra_State,753,Algerian Revolutionaries,DZ,4,Algeria,Algeria,ALN,1962,1963,ALN,800,700,1500
+Intra_State,753,Algerian Revolutionaries,DZ,,,,,1963,,,,,1500
+Intra_State,755,North Yemen,YE,4,Yemen,Egypt/United Arab Republic,-8,1962,1967,Royalists,10000,-8,9992
+Intra_State,755,North Yemen,YE,,,,,1963,,,,,9992
+Intra_State,755,North Yemen,YE,,,,,1964,,,,,9992
+Intra_State,755,North Yemen,YE,,,,,1965,,,,,9992
+Intra_State,755,North Yemen,YE,,,,,1966,,,,,9992
+Intra_State,755,North Yemen,YE,,,,,1967,,,,,9992
+Intra_State,755,North Yemen,YE,4,Yemen,Yemen Arab Republic,Royalists,1962,1969,Royalists,-9,-9,100
+Intra_State,755,North Yemen,YE,,,,,1963,,,,,100
+Intra_State,755,North Yemen,YE,,,,,1964,,,,,100
+Intra_State,755,North Yemen,YE,,,,,1965,,,,,100
+Intra_State,755,North Yemen,YE,,,,,1966,,,,,100
+Intra_State,755,North Yemen,YE,,,,,1967,,,,,100
+Intra_State,755,North Yemen,YE,,,,,1968,,,,,100
+Intra_State,755,North Yemen,YE,,,,,1969,,,,,100
+Intra_State,756,Second Laotian Phase 1,LA,4,Laos,United States of America,-8,1964,1968,Pathet Lao,200,-8,192
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1965,,,,,192
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1966,,,,,192
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1967,,,,,192
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1968,,,,,192
+Intra_State,756,Second Laotian Phase 1,LA,4,Laos,Laos,Pathet Lao,1963,1968,Pathet Lao,11250,7250,18500
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1964,,,,,18500
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1965,,,,,18500
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1966,,,,,18500
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1967,,,,,18500
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1968,,,,,18500
+Intra_State,756,Second Laotian Phase 1,LA,4,Laos,-8,"Vietnam, Democratic Rep.",1963,1968,Pathet Lao,-8,2250,2242
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1964,,,,,2242
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1965,,,,,2242
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1966,,,,,2242
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1967,,,,,2242
+Intra_State,756,Second Laotian Phase 1,LA,,,,,1968,,,,,2242
+Intra_State,757,First Ogaden,ET,5,Ethiopia,-8,Somalia,1963,1964,Ogaden,-8,-9,100
+Intra_State,757,First Ogaden,ET,,,,,1964,,,,,100
+Intra_State,757,First Ogaden,ET,5,Ethiopia,Ethiopia,Ogaden,1963,1964,Ogaden,-9,-9,100
+Intra_State,757,First Ogaden,ET,,,,,1964,,,,,100
+Intra_State,758,First South Sudan,SD,5,Sudan,Sudan,Anya Nya,1963,1972,Anya Nya,-9,-9,100
+Intra_State,758,First South Sudan,SD,,,,,1964,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1965,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1966,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1967,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1968,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1969,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1970,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1971,,,,,100
+Intra_State,758,First South Sudan,SD,,,,,1972,,,,,100
+Intra_State,760,Second DRC (Jeunesse),CG,5,Democratic Republic of Congo,Congo,Juenesse warriors,1963,1965,Juenesse warriors,-9,-9,100
+Intra_State,760,Second DRC (Jeunesse),CG,,,,,1964,,,,,100
+Intra_State,760,Second DRC (Jeunesse),CG,,,,,1965,,,,,100
+Intra_State,761,First Rwanda,RW,4,Rwanda,Rwanda,Watusi,1963,1964,Watusi,100,900,1000
+Intra_State,761,First Rwanda,RW,,,,,1964,,,,,1000
+Intra_State,762,Third DRC (Simba) Rebellion,CG,4,Democratic Republic of Congo,Belgium,-8,1964,1965,Gbenye followers,4,-8,100
+Intra_State,762,Third DRC (Simba) Rebellion,CG,,,,,1965,,,,,100
+Intra_State,762,Third DRC (Simba) Rebellion,CG,4,Democratic Republic of Congo,Congo,Gbenye followers,1964,1965,Gbenye followers,250,4000,4250
+Intra_State,762,Third DRC (Simba) Rebellion,CG,,,,,1965,,,,,4250
+Intra_State,763,Zanzibar Arab-African,TZ,4,Tanzania,Zanzibar,Africans,1964,1964,Africans,-9,-9,100
+Intra_State,765,Second Iraqi Kurds,IQ,5,Iraq,Iraq,Kurds,1965,1966,Iraq,500,2500,3000
+Intra_State,765,Second Iraqi Kurds,IQ,,,,,1966,,,,,3000
+Intra_State,766,Dominican Republic,DO,4,Dominican Republic,United States of America,-8,1965,1965,Leftists,27,-8,100
+Intra_State,766,Dominican Republic,DO,4,Dominican Republic,Dominican Republic,Leftists,1965,1965,Leftists,2500,-9,2491
+Intra_State,767,First West Papua,ID,5,Indonesia,Indonesia,"OPM, West Papua",1965,1969,"OPM, West Papua",-9,-9,100
+Intra_State,767,First West Papua,ID,,,,,1966,,,,,100
+Intra_State,767,First West Papua,ID,,,,,1968,,,,,100
+Intra_State,767,First West Papua,ID,,,,,1969,,,,,100
+Intra_State,768,First Uganda,UG,5,Uganda,Uganda,Buganda Tribe,1966,1966,Buganda Tribe,-9,-9,100
+Intra_State,770,First Guatemala,GT,4,Guatemala,United States,-8,1966,1968,Leftists,28,-8,20
+Intra_State,770,First Guatemala,GT,,,,,1967,,,,,20
+Intra_State,770,First Guatemala,GT,,,,,1968,,,,,20
+Intra_State,770,First Guatemala,GT,4,Guatemala,Guatemala,Leftists,1966,1968,Leftists,200,800,1000
+Intra_State,770,First Guatemala,GT,,,,,1967,,,,,1000
+Intra_State,770,First Guatemala,GT,,,,,1968,,,,,1000
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,5,Chad,France,-8,1968,1971,Frolinat Rebels,50,-8,42
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1969,,,,,42
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1970,,,,,42
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1971,,,,,42
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,5,Chad,Chad,Frolinat Rebels,1966,1971,Frolinat Rebels,500,3000,3500
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1967,,,,,3500
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1968,,,,,3500
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1969,,,,,3500
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1970,,,,,3500
+Intra_State,771,First Chad (FROLINAT) Rebellion,CD,,,,,1971,,,,,3500
+Intra_State,772,Cultural Revolution Phase 1,CN,6,China,Red Guard,Regional military,1967,1967,Regional military,-9,-9,100
+Intra_State,773,Third Burmese,MM,5,Burma,Burma,Karens & Communists,1967,1980,Karens,6800,22400,29200
+Intra_State,773,Third Burmese,MM,,,,,1968,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1969,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1970,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1971,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1972,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1973,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1974,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1975,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1976,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1977,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1978,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1979,,,,,29200
+Intra_State,773,Third Burmese,MM,,,,,1980,,,,,29200
+Intra_State,775,Biafra,NG,5,Nigeria,Nigeria,Biafrans,1967,1970,Nigeria,-9,-9,100
+Intra_State,775,Biafra,NG,,,,,1968,,,,,100
+Intra_State,775,Biafra,NG,,,,,1969,,,,,100
+Intra_State,775,Biafra,NG,,,,,1970,,,,,100
+Intra_State,776,Cultural Revolution Phase 2,CN,4,China,China,Red Guard,1967,1968,Red Guard,-9,-9,100
+Intra_State,776,Cultural Revolution Phase 2,CN,,,,,1968,,,,,100
+Intra_State,777,Third Iraqi Kurds,IQ,5,Iraq,Iraq,Kurds,1969,1970,Iraq,800,3200,4000
+Intra_State,777,Third Iraqi Kurds,IQ,,,,,1970,,,,,4000
+Intra_State,778,Naxalite Rebellion,IN,5,India,India,Naxalite Marxists,1970,1971,Naxalite Marxists,100,2000,2100
+Intra_State,778,Naxalite Rebellion,IN,,,,,1971,,,,,2100
+Intra_State,780,Black September,JO,4,Jordan,-8,Syria,1970,1970,Jordan,-8,100,92
+Intra_State,780,Black September,JO,4,Jordan,Jordan,Palestinians,1970,1970,Jordan,750,2690,3440
+Intra_State,781,Second Guatemala,GT,4,Guatemala,Guatemala,Leftists,1970,1971,Guatemala,50,950,1000
+Intra_State,781,Second Guatemala,GT,,,,,1971,,,,,1000
+Intra_State,782,Pakistan-Bengal,PK,5,Pakistan,Pakistan,Bengalis,1971,1971,Pakistan,2500,-9,2491
+Intra_State,783,First Sri Lanka-JVP,LK,4,Sri Lanka,Sri Lanka,Janatha Vimukthi- JVP,1971,1971,Janatha Vimukthi- JVP,53,4000,4053
+Intra_State,785,Khmer Rouge,KH,4,Cambodia,United States of America,-8,1971,1973,Khmer Rouge,375,-8,367
+Intra_State,785,Khmer Rouge,KH,,,,,1972,,,,,367
+Intra_State,785,Khmer Rouge,KH,,,,,1973,,,,,367
+Intra_State,785,Khmer Rouge,KH,4,Cambodia,Cambodia,Khmer Rouge,1971,1975,Khmer Rouge,45000,40000,85000
+Intra_State,785,Khmer Rouge,KH,,,,,1972,,,,,85000
+Intra_State,785,Khmer Rouge,KH,,,,,1973,,,,,85000
+Intra_State,785,Khmer Rouge,KH,,,,,1974,,,,,85000
+Intra_State,785,Khmer Rouge,KH,,,,,1975,,,,,85000
+Intra_State,786,First Philippine-Moro,PH,5,Philippines,Philippines,MNLF Moros,1972,1981,MNLF Moros,10000,20000,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1973,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1974,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1975,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1976,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1977,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1978,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1979,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1980,,,,,30000
+Intra_State,786,First Philippine-Moro,PH,,,,,1981,,,,,30000
+Intra_State,787,Communist Insurgency,TH,4,Thailand,Thailand,Communists,1972,1973,Communists,1500,700,2200
+Intra_State,787,Communist Insurgency,TH,,,,,1973,,,,,2200
+Intra_State,788,Eritrean Split,ET,7,Ethiopia,ELF,EPLF,1972,1974,ELF,-9,-9,100
+Intra_State,788,Eritrean Split,ET,,,,,1973,,,,,100
+Intra_State,788,Eritrean Split,ET,,,,,1974,,,,,100
+Intra_State,789,First Burundi,BI,4,Burundi,Burundi,Hutu,1972,1972,Hutu,500,1500,2000
+Intra_State,790,Philippines-NPA,PH,4,Philippines,Philippines,NPA,1972,1992,NPA,9000,22000,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1973,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1974,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1975,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1976,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1977,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1978,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1979,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1980,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1981,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1982,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1983,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1984,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1985,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1986,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1987,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1988,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1989,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1990,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1991,,,,,31000
+Intra_State,790,Philippines-NPA,PH,,,,,1992,,,,,31000
+Intra_State,791,Rhodesia,ZW,4,Rhodesia,Rhodesia,Patriotic Front,1972,1979,Patriotic Front,1000,10000,11000
+Intra_State,791,Rhodesia,ZW,,,,,1973,,,,,11000
+Intra_State,791,Rhodesia,ZW,,,,,1974,,,,,11000
+Intra_State,791,Rhodesia,ZW,,,,,1975,,,,,11000
+Intra_State,791,Rhodesia,ZW,,,,,1976,,,,,11000
+Intra_State,791,Rhodesia,ZW,,,,,1977,,,,,11000
+Intra_State,791,Rhodesia,ZW,,,,,1978,,,,,11000
+Intra_State,791,Rhodesia,ZW,,,,,1979,,,,,11000
+Intra_State,792,Baluchi Separatists,PK,5,Pakistan,Pakistan,Baluchi Rebels,1973,1977,Baluchi Rebels,3300,5300,8600
+Intra_State,792,Baluchi Separatists,PK,,,,,1974,,,,,8600
+Intra_State,792,Baluchi Separatists,PK,,,,,1975,,,,,8600
+Intra_State,792,Baluchi Separatists,PK,,,,,1976,,,,,8600
+Intra_State,792,Baluchi Separatists,PK,,,,,1977,,,,,8600
+Intra_State,793,Chilean Coup of 1973,CL,4,Chile,Chile,Pinochet led military,1973,1973,Pinochet,400,3000,3400
+Intra_State,795,Dhofar Rebellion Phase 2,OM,5,Oman,United Kingdom,-8,1973,1975,Oman,35,-8,27
+Intra_State,795,Dhofar Rebellion Phase 2,OM,,,,,1974,,,,,27
+Intra_State,795,Dhofar Rebellion Phase 2,OM,,,,,1975,,,,,27
+Intra_State,795,Dhofar Rebellion Phase 2,OM,5,Oman,Iran,-8,1973,1975,Oman,100,-8,92
+Intra_State,795,Dhofar Rebellion Phase 2,OM,,,,,1974,,,,,92
+Intra_State,795,Dhofar Rebellion Phase 2,OM,,,,,1975,,,,,92
+Intra_State,795,Dhofar Rebellion Phase 2,OM,5,Oman,Oman,PFLOAG,1973,1975,Oman,370,2500,2870
+Intra_State,795,Dhofar Rebellion Phase 2,OM,,,,,1974,,,,,2870
+Intra_State,795,Dhofar Rebellion Phase 2,OM,,,,,1975,,,,,2870
+Intra_State,797,Fourth Iraqi Kurds,IQ,5,Iraq,-8,Iran,1974,1975,Iraq,-8,-9,100
+Intra_State,797,Fourth Iraqi Kurds,IQ,,,,,1975,,,,,100
+Intra_State,797,Fourth Iraqi Kurds,IQ,5,Iraq,Iraq,Kurds,1974,1975,Iraq,7000,13000,20000
+Intra_State,797,Fourth Iraqi Kurds,IQ,,,,,1975,,,,,20000
+Intra_State,798,Eritrean War,ET,5,Ethiopia,Cuba,-8,1976,1978,Eritrean Peo. Lib.,-9,-8,100
+Intra_State,798,Eritrean War,ET,,,,,1977,,,,,100
+Intra_State,798,Eritrean War,ET,,,,,1978,,,,,100
+Intra_State,798,Eritrean War,ET,5,Ethiopia,Ethiopia,Eritrean Peo. Lib.,1975,1978,Eritrean Peo. Lib.,6100,6400,12500
+Intra_State,798,Eritrean War,ET,,,,,1976,,,,,12500
+Intra_State,798,Eritrean War,ET,,,,,1977,,,,,12500
+Intra_State,798,Eritrean War,ET,,,,,1978,,,,,12500
+Intra_State,800,Argentine Leftists,AR,4,Argentina,Argentina,"Montoneros, ERP",1975,1977,"Montoneros, ERP",250,2600,2850
+Intra_State,800,Argentine Leftists,AR,,,,,1976,,,,,2850
+Intra_State,800,Argentine Leftists,AR,,,,,1977,,,,,2850
+Intra_State,801,Second Lebanese,LB,7,Lebanon,Maronite militias,Lebanese National Movement,1975,1976,Lebanese National Movement,-9,-9,100
+Intra_State,801,Second Lebanese,LB,,,,,1976,,,,,100
+Intra_State,801,Second Lebanese,LB,7,Lebanon,Syria,-8,1976,1976,Lebanese National Movement,500,-8,492
+Intra_State,802,Second West Papua,ID,5,Indonesia,Indonesia,"OPR, West Papua",1976,1978,"OPR, West Papua",100,2000,2100
+Intra_State,802,Second West Papua,ID,,,,,1977,,,,,2100
+Intra_State,802,Second West Papua,ID,,,,,1978,,,,,2100
+Intra_State,803,Third Laotian,LA,5,Laos,Laos,Hmong,1976,1979,Hmong,1000,5000,6000
+Intra_State,803,Third Laotian,LA,,,,,1977,,,,,6000
+Intra_State,803,Third Laotian,LA,,,,,1978,,,,,6000
+Intra_State,803,Third Laotian,LA,,,,,1979,,,,,6000
+Intra_State,803,Third Laotian,LA,5,Laos,Vietnam,-8,1976,1979,Hmong,1000,-8,992
+Intra_State,803,Third Laotian,LA,,,,,1977,,,,,992
+Intra_State,803,Third Laotian,LA,,,,,1978,,,,,992
+Intra_State,803,Third Laotian,LA,,,,,1979,,,,,992
+Intra_State,804,Angolan Control,AO,4,Angola,Cuba,-8,1976,1991,UNITA,5500,-8,5492
+Intra_State,804,Angolan Control,AO,,,,,1977,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1978,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1979,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1980,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1981,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1982,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1983,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1984,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1985,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1986,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1987,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1988,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1989,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1990,,,,,5492
+Intra_State,804,Angolan Control,AO,,,,,1991,,,,,5492
+Intra_State,804,Angolan Control,AO,4,Angola,Angola,UNITA,1976,1991,UNITA,-9,-9,100
+Intra_State,804,Angolan Control,AO,,,,,1977,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1978,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1979,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1980,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1981,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1982,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1983,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1984,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1985,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1986,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1987,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1988,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1989,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1990,,,,,100
+Intra_State,804,Angolan Control,AO,,,,,1991,,,,,100
+Intra_State,804,Angolan Control,AO,4,Angola,-8,South Africa,1976,1989,UNITA,-8,800,792
+Intra_State,804,Angolan Control,AO,,,,,1977,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1978,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1979,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1980,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1981,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1982,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1983,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1984,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1985,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1986,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1987,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1988,,,,,792
+Intra_State,804,Angolan Control,AO,,,,,1989,,,,,792
+Intra_State,805,Second Ogaden Phase 1,ET,5,Ethiopia,Cuba,-8,1976,1977,WSLF,1500,-8,1492
+Intra_State,805,Second Ogaden Phase 1,ET,,,,,1977,,,,,1492
+Intra_State,805,Second Ogaden Phase 1,ET,5,Ethiopia,-8,Somalia,1976,1977,WSLF,-8,1900,1892
+Intra_State,805,Second Ogaden Phase 1,ET,,,,,1977,,,,,1892
+Intra_State,805,Second Ogaden Phase 1,ET,5,Ethiopia,Ethiopia,WSLF,1976,1977,WSLF,9000,20000,29000
+Intra_State,805,Second Ogaden Phase 1,ET,,,,,1977,,,,,29000
+Intra_State,806,East Timorese War Phase 3,ID,5,Indonesia,Indonesia,Fretilin,1976,1979,Fretelin,1800,-9,1791
+Intra_State,806,East Timorese War Phase 3,ID,,,,,1977,,,,,1791
+Intra_State,806,East Timorese War Phase 3,ID,,,,,1978,,,,,1791
+Intra_State,806,East Timorese War Phase 3,ID,,,,,1979,,,,,1791
+Intra_State,807,Third Lebanese,LB,7,Lebanon,Lebanese Forces,PLO & Shiite militia,1978,1978,Syria & PLO,1500,800,2300
+Intra_State,807,Third Lebanese,LB,7,Lebanon,-8,Syria,1978,1978,Syria & PLO,-8,800,792
+Intra_State,807,Third Lebanese,LB,7,Lebanon,Israel,-8,1978,1978,Syria & PLO,-9,-8,100
+Intra_State,808,Second Ogaden Phase 3,ET,5,Ethiopia,Cuba,-8,1978,1980,"Ogaden, WSLF",-9,-8,100
+Intra_State,808,Second Ogaden Phase 3,ET,,,,,1979,,,,,100
+Intra_State,808,Second Ogaden Phase 3,ET,,,,,1980,,,,,100
+Intra_State,808,Second Ogaden Phase 3,ET,5,Ethiopia,Ethiopia,"Ogaden, WSLF",1978,1980,"Ogaden, WSLF",2000,20000,22000
+Intra_State,808,Second Ogaden Phase 3,ET,,,,,1979,,,,,22000
+Intra_State,808,Second Ogaden Phase 3,ET,,,,,1980,,,,,22000
+Intra_State,808,Second Ogaden Phase 3,ET,5,Ethiopia,-8,Somalia,1980,1980,"Ogaden, WSLF",-8,2000,1992
+Intra_State,809,Third Guatemala,GT,4,Guatemala,Guatemala,The Democratic Front Against Repression (FDCR),1978,1984,Guatemala,1250,4750,6000
+Intra_State,809,Third Guatemala,GT,,,,,1979,,,,,6000
+Intra_State,809,Third Guatemala,GT,,,,,1980,,,,,6000
+Intra_State,809,Third Guatemala,GT,,,,,1981,,,,,6000
+Intra_State,809,Third Guatemala,GT,,,,,1982,,,,,6000
+Intra_State,809,Third Guatemala,GT,,,,,1983,,,,,6000
+Intra_State,809,Third Guatemala,GT,,,,,1984,,,,,6000
+Intra_State,810,Saur Revolution,AF,4,Afghanistan,Afghanistan,Leftist Military,1978,1978,Leftist Military,1800,1200,3000
+Intra_State,811,Fourth DRC (Shaba),CG,4,Democratic Republic of Congo,Belgium,-8,1978,1978,FNLC,-9,-8,100
+Intra_State,811,Fourth DRC (Shaba),CG,4,Democratic Republic of Congo,France,-8,1978,1978,FNLC,5,-8,100
+Intra_State,811,Fourth DRC (Shaba),CG,4,Democratic Republic of Congo,DRC,FNLC,1978,1978,FNLC,100,900,1000
+Intra_State,812,First Afghan Mujahideen Uprising,AF,4,Afghanistan,Russia,-8,1979,1980,Mujahedin,2000,-8,1992
+Intra_State,812,First Afghan Mujahideen Uprising,AF,,,,,1980,,,,,1992
+Intra_State,812,First Afghan Mujahideen Uprising,AF,4,Afghanistan,Afghanistan,Mujahideen,1978,1980,Mujahedin,11800,21200,33000
+Intra_State,812,First Afghan Mujahideen Uprising,AF,,,,,1979,,,,,33000
+Intra_State,812,First Afghan Mujahideen Uprising,AF,,,,,1980,,,,,33000
+Intra_State,813,Overthrow of the Shah,IR,4,Iran,Iran,Anti-Shah Coalition,1978,1979,Iran,100,1000,1100
+Intra_State,813,Overthrow of the Shah,IR,,,,,1979,,,,,1100
+Intra_State,815,Sandinista Rebellion,NI,4,Nicaragua,Nicaragua,Sandinistas,1978,1979,Sandinistas,1000,3000,4000
+Intra_State,815,Sandinista Rebellion,NI,,,,,1979,,,,,4000
+Intra_State,816,Anti-Khomeini Coalition,IR,4,Iran,Iran,Anti-Khmoneini Coalition: Fedayeen Kalq & Kurds,1979,1984,Coalition,-9,-9,100
+Intra_State,816,Anti-Khomeini Coalition,IR,,,,,1980,,,,,100
+Intra_State,816,Anti-Khomeini Coalition,IR,,,,,1981,,,,,100
+Intra_State,816,Anti-Khomeini Coalition,IR,,,,,1982,,,,,100
+Intra_State,816,Anti-Khomeini Coalition,IR,,,,,1983,,,,,100
+Intra_State,816,Anti-Khomeini Coalition,IR,,,,,1984,,,,,100
+Intra_State,817,El Salvador,SV,4,El Salvador,El Salvador,Salvadorean Democratic Front,1979,1992,Salvadorean Democratic Front,-9,-9,100
+Intra_State,817,El Salvador,SV,,,,,1980,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1981,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1982,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1983,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1984,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1985,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1986,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1987,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1988,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1989,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1990,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1991,,,,,100
+Intra_State,817,El Salvador,SV,,,,,1992,,,,,100
+Intra_State,818,Mozambique,MZ,4,Mozambique,Tanzania,-8,1985,1992,Renamo,50,-8,42
+Intra_State,818,Mozambique,MZ,,,,,1986,,,,,42
+Intra_State,818,Mozambique,MZ,,,,,1987,,,,,42
+Intra_State,818,Mozambique,MZ,,,,,1988,,,,,42
+Intra_State,818,Mozambique,MZ,,,,,1989,,,,,42
+Intra_State,818,Mozambique,MZ,,,,,1990,,,,,42
+Intra_State,818,Mozambique,MZ,,,,,1991,,,,,42
+Intra_State,818,Mozambique,MZ,,,,,1992,,,,,42
+Intra_State,818,Mozambique,MZ,4,Mozambique,Mozambique,Renamo,1979,1992,Renamo,-9,-9,100
+Intra_State,818,Mozambique,MZ,,,,,1980,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1981,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1982,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1983,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1984,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1985,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1986,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1987,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1988,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1989,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1990,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1991,,,,,100
+Intra_State,818,Mozambique,MZ,,,,,1992,,,,,100
+Intra_State,818,Mozambique,MZ,4,Mozambique,Zimbabwe,-8,1982,1992,Renamo,500,-8,492
+Intra_State,818,Mozambique,MZ,,,,,1983,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1984,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1985,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1986,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1987,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1988,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1989,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1990,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1991,,,,,492
+Intra_State,818,Mozambique,MZ,,,,,1992,,,,,492
+Intra_State,820,Second Chad (Habre Revolt),TD,5,Chad,-8,France,1983,1984,FAN,-8,200,192
+Intra_State,820,Second Chad (Habre Revolt),TD,,,,,1984,,,,,192
+Intra_State,820,Second Chad (Habre Revolt),TD,5,Chad,Chad,FAN,1980,1984,FAN,3500,1500,5000
+Intra_State,820,Second Chad (Habre Revolt),TD,,,,,1981,,,,,5000
+Intra_State,820,Second Chad (Habre Revolt),TD,,,,,1982,,,,,5000
+Intra_State,820,Second Chad (Habre Revolt),TD,,,,,1983,,,,,5000
+Intra_State,820,Second Chad (Habre Revolt),TD,,,,,1984,,,,,5000
+Intra_State,820,Second Chad (Habre Revolt),TD,5,Chad,Libya,-8,1980,1981,FAN,1000,-8,992
+Intra_State,820,Second Chad (Habre Revolt),TD,,,,,1981,,,,,992
+Intra_State,822,Second Uganda,UG,5,Uganda,Uganda,National Resistance Army,1980,1986,National Resistance Army,40000,6000,46000
+Intra_State,822,Second Uganda,UG,,,,,1981,,,,,46000
+Intra_State,822,Second Uganda,UG,,,,,1982,,,,,46000
+Intra_State,822,Second Uganda,UG,,,,,1983,,,,,46000
+Intra_State,822,Second Uganda,UG,,,,,1984,,,,,46000
+Intra_State,822,Second Uganda,UG,,,,,1985,,,,,46000
+Intra_State,822,Second Uganda,UG,,,,,1986,,,,,46000
+Intra_State,823,Nigeria-Muslim,NG,5,Nigeria,Nigeria,Muslim fundamentalists,1980,1981,Muslim fundamentalists,50,1000,1050
+Intra_State,823,Nigeria-Muslim,NG,,,,,1981,,,,,1050
+Intra_State,825,Hama,SY,4,Syria,Syria,Muslim Brotherhood,1981,1982,Muslim Brotherhood,1000,2000,3000
+Intra_State,825,Hama,SY,,,,,1982,,,,,3000
+Intra_State,826,Tigrean and Eritrean,ET,5,Ethiopia,Ethiopia,Tigray & Eritrea,1982,1991,Tigray & Eritrea,10000,65000,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1983,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1984,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1985,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1986,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1987,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1988,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1989,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1990,,,,,75000
+Intra_State,826,Tigrean and Eritrean,ET,,,,,1991,,,,,75000
+Intra_State,827,Shining Path,PE,4,Peru,Peru,Shining Path & TARM,1982,1992,Shining Path,4000,12000,16000
+Intra_State,827,Shining Path,PE,,,,,1983,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1984,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1985,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1986,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1987,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1988,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1989,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1990,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1991,,,,,16000
+Intra_State,827,Shining Path,PE,,,,,1992,,,,,16000
+Intra_State,828,Contra War,NI,4,Nicaragua,Nicaragua,Contras,1982,1990,Contras,7000,25200,32200
+Intra_State,828,Contra War,NI,,,,,1983,,,,,32200
+Intra_State,828,Contra War,NI,,,,,1984,,,,,32200
+Intra_State,828,Contra War,NI,,,,,1985,,,,,32200
+Intra_State,828,Contra War,NI,,,,,1986,,,,,32200
+Intra_State,828,Contra War,NI,,,,,1987,,,,,32200
+Intra_State,828,Contra War,NI,,,,,1989,,,,,32200
+Intra_State,828,Contra War,NI,,,,,1990,,,,,32200
+Intra_State,831,Matabeleland,ZW,4,Zimbabwe,Zimbabwe,ZAPU,1983,1987,Zimbabwe,-9,-9,100
+Intra_State,831,Matabeleland,ZW,,,,,1984,,,,,100
+Intra_State,831,Matabeleland,ZW,,,,,1985,,,,,100
+Intra_State,831,Matabeleland,ZW,,,,,1986,,,,,100
+Intra_State,831,Matabeleland,ZW,,,,,1987,,,,,100
+Intra_State,832,Fourth Burmese,MM,5,Burma,Burma,Karen & Kachin Rebels,1983,1988,Kachin Rebels,2800,1200,4000
+Intra_State,832,Fourth Burmese,MM,,,,,1984,,,,,4000
+Intra_State,832,Fourth Burmese,MM,,,,,1985,,,,,4000
+Intra_State,832,Fourth Burmese,MM,,,,,1986,,,,,4000
+Intra_State,832,Fourth Burmese,MM,,,,,1987,,,,,4000
+Intra_State,832,Fourth Burmese,MM,,,,,1988,,,,,4000
+Intra_State,833,Fourth Lebanese Civil,LB,4,Lebanon,United States,-8,1983,1984,Druze,273,-8,265
+Intra_State,833,Fourth Lebanese Civil,LB,,,,,1984,,,,,265
+Intra_State,833,Fourth Lebanese Civil,LB,4,Lebanon,France,-8,1983,1984,Druze,95,-8,87
+Intra_State,833,Fourth Lebanese Civil,LB,,,,,1984,,,,,87
+Intra_State,833,Fourth Lebanese Civil,LB,4,Lebanon,Lebanon,Shi'ites & Druze,1983,1984,Druze,-9,-9,100
+Intra_State,833,Fourth Lebanese Civil,LB,4,,,,1984,,,,,100
+Intra_State,835,First Sri Lanka Tamil,LK,5,Sri Lanka,India,-8,1987,1990,Tamils,1155,-8,1147
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1988,,,,,1147
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1989,,,,,1147
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1990,,,,,1147
+Intra_State,835,First Sri Lanka Tamil,LK,5,Sri Lanka,Sri Lanka,Tamils,1983,2002,Tamils,8500,17000,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1984,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1985,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1986,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1987,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1988,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1989,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1990,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1991,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1992,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1993,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1994,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1995,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1996,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1997,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1998,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,1999,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,2000,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,2001,,,,,25500
+Intra_State,835,First Sri Lanka Tamil,LK,,,,,2002,,,,,25500
+Intra_State,836,Second South Sudan,SD,4,Sudan,Sudan,SPLA-Garang faction,1983,1991,SPLA-Garang faction,-9,-9,100
+Intra_State,836,Second South Sudan,SD,,,,,1984,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1985,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1986,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1987,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1988,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1989,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1990,,,,,100
+Intra_State,836,Second South Sudan,SD,,,,,1991,,,,,100
+Intra_State,837,Indian Golden Temple,IN,5,India,India,Sikhs,1984,1984,India,-9,1200,1191
+Intra_State,838,First Turkish Kurds,TR,5,Turkey,Turkey,"Kurds, PKK",1984,1986,"Kurds, PKK",1500,9000,10500
+Intra_State,838,First Turkish Kurds,TR,,,,,1985,,,,,10500
+Intra_State,838,First Turkish Kurds,TR,,,,,1986,,,,,10500
+Intra_State,840,Fifth Iraqi  Kurds,IQ,5,Iraq,-8,Iran,1985,1988,Kurds,-8,-9,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,,,,,1986,,,,,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,,,,,1987,,,,,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,,,,,1988,,,,,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,5,Iraq,Iraq,Kurds,1985,1988,Kurds,-9,-9,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,,,,,1986,,,,,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,,,,,1987,,,,,100
+Intra_State,840,Fifth Iraqi  Kurds,IQ,,,,,1989,,,,,100
+Intra_State,842,South Yemen,YE,4,Yemen ,Yemen People's Republic,Leftist Factions,1986,1986,PDRY,4200,8800,13000
+Intra_State,843,Holy Spirit Movement,UG,4,Uganda,Uganda,HSMF,1986,1987,HSMF,2000,5000,7000
+Intra_State,843,Holy Spirit Movement,UG,,,,,1987,,,,,7000
+Intra_State,845,Second Sri Lanka-JVP,LK,4,Sri Lanka,Sri Lanka,JVP,1987,1989,JVP,-9,-9,100
+Intra_State,845,Second Sri Lanka-JVP,LK,,,,,1988,,,,,100
+Intra_State,845,Second Sri Lanka-JVP,LK,,,,,1989,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,7,Inkatha,Inkatha,ANC,1987,1994,Inkatha,-9,-9,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1986,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1987,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1988,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1989,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1990,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1991,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1992,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1993,,,,,100
+Intra_State,846,Inkatha-ANC,ZA,,,,,1994,,,,,100
+Intra_State,847,Fifth Burmese,MM,4,Burma,Burma,Pro-democracy,1988,1988,Pro-democracy,-9,-9,100
+Intra_State,848,First Somalia,SO,4,Somalia,Somalia,rebel clans,1988,1991,USC,-9,-9,100
+Intra_State,848,First Somalia,SO,,,,,1989,,,,,100
+Intra_State,848,First Somalia,SO,,,,,1990,,,,,100
+Intra_State,848,First Somalia,SO,,,,,1991,,,,,100
+Intra_State,850,Fifth Lebanese,LB,4,Lebanon,-8,Syria,1989,1990,Lebanon,-8,150,142
+Intra_State,850,Fifth Lebanese,LB,,,,,1990,,,,,142
+Intra_State,850,Fifth Lebanese,LB,4,Lebanon,Lebanon,militias,1989,1990,Lebanon,-9,2500,2491
+Intra_State,850,Fifth Lebanese,LB,,,,,1990,,,,,2491
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,4,Afghanistan,Afghanistan,Mujahadin,1989,2001,Mujahadin,-9,-9,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1990,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1991,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1992,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1993,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1994,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1995,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1996,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1997,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1998,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,1999,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,2000,,,,,100
+Intra_State,851,Second Afghan Mujahideen Uprising,AF,,,,,2001,,,,,100
+Intra_State,852,Third Chad (Deby Coup),TD,4,Chad,Chad,Deby's MPS,1989,1990,Deby,3000,800,3800
+Intra_State,852,Third Chad (Deby Coup),TD,,,,,1990,,,,,3800
+Intra_State,853,First Aceh,ID,5,Indonesia,Indonesia,GAM,1989,1991,GAM,-9,-9,100
+Intra_State,853,First Aceh,ID,,,,,1990,,,,,100
+Intra_State,853,First Aceh,ID,,,,,1991,,,,,100
+Intra_State,854,Bougainville Secession,PG,5,Papua New Guinea,Papua New Guinea,BRA,1989,1992,P.N.G.,-9,-9,100
+Intra_State,854,Bougainville Secession,PG,,,,,1990,,,,,100
+Intra_State,854,Bougainville Secession,PG,,,,,1991,,,,,100
+Intra_State,854,Bougainville Secession,PG,,,,,1992,,,,,100
+Intra_State,856,Eighth Colombia,CO,5,Colombia,Colombia,FARC & Drug Lords,1989,1995,Drug Lords & FARC,"10,480","17,681",28161
+Intra_State,856,Eighth Colombia,CO,,,,,1990,,,,,28161
+Intra_State,856,Eighth Colombia,CO,,,,,1991,,,,,28161
+Intra_State,856,Eighth Colombia,CO,,,,,1992,,,,,28161
+Intra_State,856,Eighth Colombia,CO,,,,,1993,,,,,28161
+Intra_State,856,Eighth Colombia,CO,,,,,1994,,,,,28161
+Intra_State,856,Eighth Colombia,CO,,,,,1995,,,,,28161
+Intra_State,857,First Cambodian Civil War,KH,4,Cambodia,Cambodia,Khmer Rouge & KPNFL,1989,1991,Khmer Rouge & KPNFL,-9,-9,100
+Intra_State,857,First Cambodian Civil War,KH,,,,,1990,,,,,100
+Intra_State,857,First Cambodian Civil War,KH,,,,,1991,,,,,100
+Intra_State,858,Romania,RO,4,Romania,Romania,Anti-Ceaucescu Rebels,1989,1989,Anti-Ceaucescu Rebels,300,700,1000
+Intra_State,860,First Liberia,LR,4,Liberia,Liberia,NPFL,1989,1990,NPFL,-9,-9,100
+Intra_State,860,First Liberia,LR,,,,,1990,,,,,100
+Intra_State,860,First Liberia,LR,4,Liberia,Nigeria,-8,1990,1990,NPFL,0,-8,100
+Intra_State,861,Kashmir Insurgents,IN,5,India,India,Kashmiri Guerillas,1990,2005,Kashmiri Guerillas,6000,21700,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1991,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1992,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1993,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1994,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1995,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1996,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1997,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1998,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,1999,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,2000,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,2001,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,2002,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,2003,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,2004,,,,,27700
+Intra_State,861,Kashmir Insurgents,IN,,,,,2005,,,,,27700
+Intra_State,862,Shiite and Kurdish,IQ,5,Iraq,Iraq,Shiites & Kurds,1991,1991,Shiites,-9,-9,100
+Intra_State,863,First Sierra Leone,SL,4,Sierra Leone,Sierra Leone,RUF,1991,1996,RUF,-9,-9,100
+Intra_State,863,First Sierra Leone,SL,,,,,1992,,,,,100
+Intra_State,863,First Sierra Leone,SL,,,,,1993,,,,,100
+Intra_State,863,First Sierra Leone,SL,,,,,1994,,,,,100
+Intra_State,863,First Sierra Leone,SL,,,,,1995,,,,,100
+Intra_State,863,First Sierra Leone,SL,,,,,1996,,,,,100
+Intra_State,864,Croatian Independence,HR,5,Croatia,Yugoslavia/Serbia,Croatia,1991,1992,Yugoslavia,-9,-9,100
+Intra_State,864,Croatian Independence,HR,,,,,1992,,,,,100
+Intra_State,865,Second Turkish Kurds,TR,5,Turkey,Turkey,"Kurds, PKK",1991,1999,"Kurds, PKK",3500,13000,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1992,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1993,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1994,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1995,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1996,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1997,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1998,,,,,16500
+Intra_State,865,Second Turkish Kurds,TR,,,,,1999,,,,,16500
+Intra_State,866,The SPLA Division (Dinka-Nuer) War,SD,7,Sudan,Garang faction,Nuer faction,1991,1992,Nuer faction,-9,-9,100
+Intra_State,866,The SPLA Division (Dinka-Nuer) War,SD,,,,,1992,,,,,100
+Intra_State,868,Jukun-Tiv War,NG,7,Nigeria,Jukun,Tiv,1991,1992,Tiv,-9,-9,100
+Intra_State,868,Jukun-Tiv War,NG,,,,,1992,,,,,100
+Intra_State,870,Second Somalia,SO,4,Somalia,Nigeria,-8,1992,1995,Aideed Faction,-9,-8,100
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1995,,,,,100
+Intra_State,870,Second Somalia,SO,4,Somalia,Somalia,Aideed Faction,1991,1997,Aideed Faction,-9,-9,100
+Intra_State,870,Second Somalia,SO,,,,,1992,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1995,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1996,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1997,,,,,100
+Intra_State,870,Second Somalia,SO,4,Somalia,Pakistan,-8,1992,1995,Aideed Faction,24,-8,16
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,16
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,16
+Intra_State,870,Second Somalia,SO,,,,,1995,,,,,16
+Intra_State,870,Second Somalia,SO,4,Somalia,Australia,-8,1992,1995,Aideed Faction,-9,-8,100
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1995,,,,,100
+Intra_State,870,Second Somalia,SO,4,Somalia,France,-8,1992,1995,Aideed Faction,2,-8,100
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1995,,,,,100
+Intra_State,870,Second Somalia,SO,4,Somalia,United States of America,-8,1992,1994,Aideed Faction,44,-8,36
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,36
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,36
+Intra_State,870,Second Somalia,SO,4,Somalia,Italy,-8,1992,1995,Aideed Faction,-9,-8,100
+Intra_State,870,Second Somalia,SO,,,,,1993,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1994,,,,,100
+Intra_State,870,Second Somalia,SO,,,,,1995,,,,,100
+Intra_State,871,Georgia,GE,4,Georgia,Georgia,Reform,1991,1992,Reform,-9,-9,100
+Intra_State,871,Georgia,GE,,,,,1992,,,,,100
+Intra_State,872,Nagorno-Karabakh,AZ,5,Azerbaijan,-8,Armenia,1991,1993,Nagorno-Karabakh,-8,1000,992
+Intra_State,872,Nagorno-Karabakh,AZ,,,,,1992,,,,,992
+Intra_State,872,Nagorno-Karabakh,AZ,,,,,1993,,,,,992
+Intra_State,872,Nagorno-Karabakh,AZ,5,Azerbaijan,Azerbaijan,Nagorno-Karabakh,1991,1993,Nagorno-Karabakh,7000,3000,10000
+Intra_State,872,Nagorno-Karabakh,AZ,,,,,1992,,,,,10000
+Intra_State,872,Nagorno-Karabakh,AZ,,,,,1993,,,,,10000
+Intra_State,873,Dniestrian Independence,UA,5,Dniestria,Moldova,Dniestria,1991,1992,Dniestria,-9,-9,100
+Intra_State,873,Dniestrian Independence,UA,,,,,1992,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,4,Algeria,Algeria,Islamic Front,1992,1999,Algeria,-9,-9,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1993,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1994,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1995,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1996,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1997,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1998,,,,,100
+Intra_State,875,Algerian Islamic Front,DZ,,,,,1999,,,,,100
+Intra_State,876,Tajikistan,TJ,4,Tajikistan,Russia,-8,1993,1997,United Tajik Opposition,-9,-8,100
+Intra_State,876,Tajikistan,TJ,,,,,1994,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1995,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1996,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1997,,,,,100
+Intra_State,876,Tajikistan,TJ,4,Tajikistan,Tadzhikistan,United Tajik Opposition,1992,1997,United Tajik Opposition,-9,-9,100
+Intra_State,876,Tajikistan,TJ,,,,,1993,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1994,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1995,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1996,,,,,100
+Intra_State,876,Tajikistan,TJ,,,,,1997,,,,,100
+Intra_State,877,Bosnian-Serb Rebellion,BA,5,Bosnia,Bosnia,Bosnian Serbs,1992,1994,Bosnian Serbs,27500,18543,46043
+Intra_State,877,Bosnian-Serb Rebellion,BA,,,,,1993,,,,,46043
+Intra_State,877,Bosnian-Serb Rebellion,BA,,,,,1994,,,,,46043
+Intra_State,877,Bosnian-Serb Rebellion,BA,5,Bosnia,United States,-8,1995,1995,Bosnian Serbs,0,-8,100
+Intra_State,877,Bosnian-Serb Rebellion,BA,5,Bosnia,-8,Croatia,1994,1994,Bosnian Serbs,-8,185,177
+Intra_State,877,Bosnian-Serb Rebellion,BA,5,Bosnia,Croatia,-8,1992,1994,Bosnian Serbs,-9,-8,100
+Intra_State,877,Bosnian-Serb Rebellion,BA,,,,,1993,,,,,100
+Intra_State,877,Bosnian-Serb Rebellion,BA,,,,,1994,,,,,100
+Intra_State,878,Second Liberia,LR,4,Liberia,Liberia,NPFL & ULIMO,1992,1995,NPFL & ULIMO,-9,-9,100
+Intra_State,878,Second Liberia,LR,,,,,1993,,,,,100
+Intra_State,878,Second Liberia,LR,,,,,1994,,,,,100
+Intra_State,878,Second Liberia,LR,,,,,1995,,,,,100
+Intra_State,878,Second Liberia,LR,4,Liberia,Nigeria,-8,1992,1992,NPFL & ULIMO,-9,-8,100
+Intra_State,880,Angolan War of the Cities,AO,4,Angola,Angola,UNITA,1992,1994,UNITA,-9,-9,100
+Intra_State,880,Angolan War of the Cities,AO,,,,,1993,,,,,100
+Intra_State,880,Angolan War of the Cities,AO,,,,,1994,,,,,100
+Intra_State,881,Second Cambodia Civil,KH,4,Cambodia,Cambodia,Khmer Rouge,1993,1997,Khmer Rouge,-9,-9,100
+Intra_State,881,Second Cambodia Civil,KH,,,,,1994,,,,,100
+Intra_State,881,Second Cambodia Civil,KH,,,,,1995,,,,,100
+Intra_State,881,Second Cambodia Civil,KH,,,,,1996,,,,,100
+Intra_State,881,Second Cambodia Civil,KH,,,,,1997,,,,,100
+Intra_State,882,Abkhazia Revolt,GE,5,Abkhazia,Georgia,Abkhazia,1993,1994,Georgia,5000,3000,8000
+Intra_State,882,Abkhazia Revolt,GE,,,,,1994,,,,,8000
+Intra_State,883,Second Burundi,BI,4,Burundi,Burundi,Tutsi army,1993,1998,Tutsi army,-9,-9,100
+Intra_State,883,Second Burundi,BI,,,,,1994,,,,,100
+Intra_State,883,Second Burundi,BI,,,,,1995,,,,,100
+Intra_State,883,Second Burundi,BI,,,,,1996,,,,,100
+Intra_State,883,Second Burundi,BI,,,,,1997,,,,,100
+Intra_State,883,Second Burundi,BI,,,,,1998,,,,,100
+Intra_State,885,South Yemeni Secessionist,YE,5,Yemen,Yemen,South Yemen,1994,1994,South Yemen,-9,-9,100
+Intra_State,886,Second Rwanda,RW,4,Rwanda,Rwanda,Patriotic Front,1994,1994,Patriotic Front,-9,-9,100
+Intra_State,888,First Chechnya,RU,5,Chechnya,Russia,Chechnya,1994,1996,Chechnya,4000,6000,10000
+Intra_State,888,First Chechnya,RU,,,,,1995,,,,,10000
+Intra_State,888,First Chechnya,RU,,,,,1996,,,,,10000
+Intra_State,890,Iraqi Kurd Internecine,IQ,7,Iraq,PUK,KDP,1994,1995,KDP,-9,-9,100
+Intra_State,890,Iraqi Kurd Internecine,IQ,,,,,1995,,,,,100
+Intra_State,891,Croatia-Krajina War,HR,5,Croatia,Croatia,Krajinia Serbs,1995,1995,Krajinian Serba,-9,-9,100
+Intra_State,892,Third Liberia,LR,4,Liberia,Liberia,NPFL,1996,1996,National Patriotic Forces,-9,-9,100
+Intra_State,893,Sixth Iraqi Kurds,IQ,5,Iraq,Iraq,PUK,1996,1996,PUK,-9,-9,100
+Intra_State,895,Fifth DRC,CG,4,Democratic Republic of Congo,-8,Uganda,1997,1997,Kabila-ADFL,-8,-9,100
+Intra_State,895,Fifth DRC,CG,4,Democratic Republic of Congo,-8,Rwanda,1997,1997,Kabila-ADFL,-8,-9,100
+Intra_State,895,Fifth DRC,CG,4,Democratic Republic of Congo,-8,Angola,1997,1997,Kabila-ADFL,-8,-9,100
+Intra_State,895,Fifth DRC,CG,4,Democratic Republic of Congo,DRC,ADFL,1996,1997,Kabila-ADFL,-9,-9,100
+Intra_State,896,Third Rwanda,RW,4,Rwanda,Rwanda,Hutu rebels,1997,1998,Hutu rebels,300,3000,3300
+Intra_State,897,First Congo (Brazzaville),CG,4,Democratic Republic of Congo,-8,Angola,1997,1997,FDU,-8,-9,100
+Intra_State,897,First Congo (Brazzaville),CG,4,Democratic Republic of Congo,Congo,FDU (Cobra militia),1997,1997,FDU (Cobra militia),-9,-9,100
+Intra_State,898,Second Sierra Leone,SL,4,Sierra Leone,Sierra Leone,Kabbah faction,1998,1999,Kabbah faction,-9,-9,100
+Intra_State,898,Second Sierra Leone,SL,4,Sierra Leone,-8,Ghana,1998,1999,Kabbah faction,-8,-9,100
+Intra_State,898,Second Sierra Leone,SL,4,Sierra Leone,-8,Nigeria,1998,1999,Kabbah faction,-8,-9,100
+Intra_State,898,Second Sierra Leone,SL,4,Sierra Leone,-8,Guinea,1998,1999,Kabbah faction,-8,-9,100
+Intra_State,898,Second Sierra Leone,SL,,,,,1999,,,,,100
+Intra_State,898,Second Sierra Leone,SL,4,Sierra Leone,-8,United Kingdom,2000,2000,Kabbah faction,-8,-9,100
+Intra_State,900,Kosovo Independence,XK,5,Kosovo,Yugoslavia,KLA,1998,1999,Yugoslavia,400,800,1200
+Intra_State,900,Kosovo Independence,XK,,,,,1999,,,,,1200
+Intra_State,902,Guinea-Bissau Military,GQ,4,Guinea,Guinea,-8,1998,1998,Mané Junta,-9,-8,100
+Intra_State,902,Guinea-Bissau Military,GQ,4,Guinea,Guinea-Bissau,Mané Junta,1998,1999,Mané Junta,-9,-9,100
+Intra_State,902,Guinea-Bissau Military,GQ,,,,,1999,,,,,100
+Intra_State,902,Guinea-Bissau Military,GQ,4,Guinea,Senegal,-8,1998,1998,Mané Junta,-9,-8,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,Angola,-8,1998,2002,,-9,-8,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,Sudan,-8,1998,2002,,-9,-8,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,Namibia,-8,1998,2001,,-9,-8,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,Zimbabwe,-8,1998,2002,,-9,-8,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,-8,Rwanda,1998,2002,,-8,-9,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,-8,Burundi,1998,2002,,-8,-9,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,-8,Uganda,1998,2002,,-8,-9,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,Chad,-8,1998,1999,,-9,-8,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,4,Democratic Republic of Congo,Democratic Republic of Congo,"RCD, MLC, et al",1998,2002,"RCD, MLC, et al",-9,-9,100
+Intra_State,905,Africa's World War,CG,,,,,1999,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2000,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2001,,,,,100
+Intra_State,905,Africa's World War,CG,,,,,2002,,,,,100
+Intra_State,906,Fourth Chad (Togoimi Revolt),TD,4,Chad,Chad,MDD & MDJT,1998,2000,MDD & MDJT,-9,-9,100
+Intra_State,906,Fourth Chad (Togoimi Revolt),TD,,,,,1999,,,,,100
+Intra_State,906,Fourth Chad (Togoimi Revolt),TD,,,,,2000,,,,,100
+Intra_State,907,Third Angolan,AO,4,Angola,Angola,UNITA,1998,2002,Angola,-9,-9,100
+Intra_State,907,Third Angolan,AO,,,,,1999,,,,,100
+Intra_State,907,Third Angolan,AO,,,,,2000,,,,,100
+Intra_State,907,Third Angolan,AO,,,,,2001,,,,,100
+Intra_State,907,Third Angolan,AO,,,,,2002,,,,,100
+Intra_State,908,Second Congo (Brazzaville),CG,4,Congo,Congo (Brazzaville),Ninjas and Cocoye militias,1998,1999,Ninjas and Cocoye militias,-9,-9,100
+Intra_State,908,Second Congo (Brazzaville),CG,,,,,1999,,,,,100
+Intra_State,910,Moluccas Sectarian,ID,7,Laskar Jihad,Laskar Jihad,FKM & RMS,1999,2000,Laskar Jihad,-9,1800,1791
+Intra_State,910,Moluccas Sectarian,ID,,,,,2000,,,,,1791
+Intra_State,911,First Nigeria Christian-Muslim,NG,7,Nigeria,Christian Tarok,Muslim Fulani,1999,2000,Muslim Fulani,-9,-9,100
+Intra_State,911,First Nigeria Christian-Muslim,NG,,,,,2000,,,,,100
+Intra_State,912,Second Aceh,ID,5,Indonesia,Indonesia,GAM,1999,2002,GAM,330,3500,3830
+Intra_State,912,Second Aceh,ID,,,,,2000,,,,,3830
+Intra_State,912,Second Aceh,ID,,,,,2001,,,,,3830
+Intra_State,912,Second Aceh,ID,,,,,2002,,,,,3830
+Intra_State,913,Oromo Liberation,ET,5,Ethiopia,Ethiopia,Oromo Lib. Front,1999,1999,Oromo Lib. Front,200,800,1000
+Intra_State,915,Second Chechen,RU,5,Chechnya,Russia,Chechnya,1999,2003,Cechnya,5000,15000,20000
+Intra_State,915,Second Chechen,RU,,,,,2000,,,,,20000
+Intra_State,915,Second Chechen,RU,,,,,2001,,,,,20000
+Intra_State,915,Second Chechen,RU,,,,,2002,,,,,20000
+Intra_State,915,Second Chechen,RU,,,,,2003,,,,,20000
+Intra_State,916,Second Philippine-Moro,PH,5,Philippines,Philippines,MILF,2000,2001,Phillippines,-9,-9,100
+Intra_State,916,Second Philippine-Moro,PH,,,,,2001,,,,,100
+Intra_State,917,Guinean,GQ,4,Guinea ,Guinea ,RDFG,2000,2001,RDFG,-9,-9,100
+Intra_State,917,Guinean,,,,,,2001,,,,,100
+Intra_State,918,Third Burundi,BI,4,Burundi,Burundi,FNL & FROLINA,2001,2003,FNL,150,3000,3150
+Intra_State,918,Third Burundi,BI,,,,,2002,,,,,3150
+Intra_State,918,Third Burundi,BI,,,,,2003,,,,,3150
+Intra_State,920,Fourth Rwanda,RW,4,Rwanda,Rwanda,Army for the Liberation of Rwanda,2001,2001,ALIR,-9,1800,1791
+Intra_State,921,First Nepal Maoist Insurgency,NP,4,Nepal ,Nepal ,CPN,2001,2003,CPN,680,3100,3780
+Intra_State,921,First Nepal Maoist Insurgency,NP,,,,,2002,,,,,3780
+Intra_State,921,First Nepal Maoist Insurgency,NP,,,,,2003,,,,,3780
+Intra_State,922,Fourth Liberian,LR,4,Liberia,Liberia,LURD & MODEL,2002,2003,LURD & MODEL,-9,-9,100
+Intra_State,922,Fourth Liberian,LR,,,,,2003,,,,,100
+Intra_State,923,Ethiopian Anyuaa-Nuer,SD,7,Anyuaa,Anyuaa,Nuer,2002,2003,Nuer,-9,-9,100
+Intra_State,923,Ethiopian Anyuaa-Nuer,SD,,,,,2003,,,,,100
+Intra_State,925,Cote d'Ivoire Military,FR,4,Cote d'Ivoire,France,-8,2002,2004,"MPCI, MPIGO, MJP",9,-8,100
+Intra_State,925,Cote d'Ivoire Military,FR,,,,,2003,,,,,100
+Intra_State,925,Cote d'Ivoire Military,FR,,,,,2004,,,,,100
+Intra_State,925,Cote d'Ivoire Military,FR,4,Cote d'Ivoire,Cote d'Ivoire,"MPCI, MPIGO, MJP",2002,2004,"MPCI, MPIGO, MJP",200,2500,2700
+Intra_State,926,Third Philippine-Moro,NP,5,Phillippines,Phillippines,MILF & ASG,2003,2003,Phillippines,410,590,1000
+Intra_State,927,Darfur,SD,5,Sudan,Sudan,SLA & JEM,2003,2006,SLA,-9,-9,100
+Intra_State,927,Darfur,SD,,,,,2004,,,,,100
+Intra_State,927,Darfur,SD,,,,,2005,,,,,100
+Intra_State,927,Darfur,SD,,,,,2006,,,,,100
+Intra_State,930,Third Aceh,ID,5,Indonesia,Indonesia,GAM,2003,2003,Indonesia,150,1400,1550
+Intra_State,931,Second Nepal Maoists,NP,4,Nepal,Nepal,CPN,2003,2006,CPN,1260,5770,7030
+Intra_State,931,Second Nepal Maoists,NP,,,,,2004,,,,,7030
+Intra_State,931,Second Nepal Maoists,NP,,,,,2005,,,,,7030
+Intra_State,931,Second Nepal Maoists,NP,,,,,2006,,,,,7030
+Intra_State,932,Waziristan,PK,5,Pakistan,United States,-8,2004,2006,US & Pakistan,-9,-8,100
+Intra_State,932,Waziristan,PK,,,,,2005,,,,,100
+Intra_State,932,Waziristan,PK,,,,,2006,,,,,100
+Intra_State,932,Waziristan,PK,5,Pakistan,Pakistan,Waziri tribes,2004,2006,US & Pakistan,1200,1800,3000
+Intra_State,932,Waziristan,PK,,,,,2005,,,,,3000
+Intra_State,932,Waziristan,PK,,,,,2006,,,,,3000
+Intra_State,933,Second Nigeria Christian-Muslim,NG,7,Nigeria,Christian Tarok,Muslim Fulani,2004,2004,Muslim Fulani,-9,-9,100
+Intra_State,935,First Yemeni Cleric,YE,4,Yemen,Yemen,Zaidi Muslims,2004,2005,Zaidi Muslims,900,1350,2250
+Intra_State,935,First Yemeni Cleric,YE,,,,,2005,,,,,2250
+Intra_State,936,Philippine Joint Offensive,PH,5,Phillippines,Phillippines,MILF & NPA,2005,2006,Phillippines,723,2100,2823
+Intra_State,936,Philippine Joint Offensive,PH,,,,,2006,,,,,2823
+Intra_State,937,Fifth Chad,TD,4,Chad,Chad,FUDC,2005,2006,FUDC,100,1000,1100
+Intra_State,937,Fifth Chad,TD,,,,,2006,,,,,1100
+Intra_State,938,Third Somalia,SO,4,Somalia,United States,-8,2007,2007,SCIC,-9,-8,100
+Intra_State,938,Third Somalia,SO,4,Somalia,Somalia,SCIC,2006,2008,SCIC,-9,-9,100
+Intra_State,938,Third Somalia,SO,,,,,2007,,,,,100
+Intra_State,938,Third Somalia,SO,,,,,2008,,,,,100
+Intra_State,938,Third Somalia,SO,4,Somalia,Ethiopia,-8,2006,2008,SCIC,-9,-8,100
+Intra_State,938,Third Somalia,SO,,,,,2007,,,,,100
+Intra_State,938,Third Somalia,SO,,,,,2008,,,,,100
+Intra_State,938,Third Somalia,SO,4,Somalia,-8,Eritrea,2006,2008,SCIC,8,9,100
+Intra_State,938,Third Somalia,SO,,,,,2007,,,,,100
+Intra_State,938,Third Somalia,SO,,,,,2008,,,,,100
+Intra_State,940,Second Sri Lanka Tamil,LK,5,Sri Lanka,Sri Lanka,LTTE,2006,2006,Sri Lanka,9,9,100
+Intra_State,941,Second Yemeni Cleric,YE,4,Yemen,Yemen,Zaidi Muslims,2007,2007,Zaidi Muslims,1500,2000,3500
+Inter_State,151,Korean,KR,1,South Korea,China,,1950,1953,2,,,422612
+Inter_State,151,Korean,KR,,,,,1951,,,,,422612
+Inter_State,151,Korean,KR,,,,,1952,,,,,422612
+Inter_State,151,Korean,KR,,,,,1953,,,,,422612
+Inter_State,151,Korean,KR,1,South Korea,Belgium,,1951,1953,2,,,97
+Inter_State,151,Korean,KR,,,,,1952,,,,,97
+Inter_State,151,Korean,KR,,,,,1953,,,,,97
+Inter_State,151,Korean,KR,1,South Korea,Canada,,1950,1953,2,,,309
+Inter_State,151,Korean,KR,,,,,1951,,,,,309
+Inter_State,151,Korean,KR,,,,,1952,,,,,309
+Inter_State,151,Korean,KR,,,,,1953,,,,,309
+Inter_State,151,Korean,KR,1,South Korea,Colombia,,1951,1953,2,,,140
+Inter_State,151,Korean,KR,,,,,1952,,,,,140
+Inter_State,151,Korean,KR,,,,,1953,,,,,140
+Inter_State,151,Korean,KR,1,South Korea,United Kingdom,,1950,1953,2,,,710
+Inter_State,151,Korean,KR,,,,,1951,,,,,710
+Inter_State,151,Korean,KR,,,,,1952,,,,,710
+Inter_State,151,Korean,KR,,,,,1953,,,,,710
+Inter_State,151,Korean,KR,1,South Korea,Netherlands,,1951,1953,2,,,111
+Inter_State,151,Korean,KR,,,,,1952,,,,,111
+Inter_State,151,Korean,KR,,,,,1953,,,,,111
+Inter_State,151,Korean,KR,1,South Korea,Greece,,1951,1953,2,,,169
+Inter_State,151,Korean,KR,,,,,1952,,,,,169
+Inter_State,151,Korean,KR,,,,,1953,,,,,169
+Inter_State,151,Korean,KR,1,South Korea,France,,1951,1953,2,,,288
+Inter_State,151,Korean,KR,,,,,1952,,,,,288
+Inter_State,151,Korean,KR,,,,,1953,,,,,288
+Inter_State,151,Korean,KR,1,South Korea,Turkey,,1950,1953,2,,,717
+Inter_State,151,Korean,KR,,,,,1951,,,,,717
+Inter_State,151,Korean,KR,,,,,1952,,,,,717
+Inter_State,151,Korean,KR,,,,,1953,,,,,717
+Inter_State,151,Korean,KR,1,South Korea,Philippines,,1950,1953,2,,,92
+Inter_State,151,Korean,KR,,,,,1951,,,,,92
+Inter_State,151,Korean,KR,,,,,1952,,,,,92
+Inter_State,151,Korean,KR,,,,,1953,,,,,92
+Inter_State,151,Korean,KR,1,South Korea,Thailand,,1951,1953,2,,,114
+Inter_State,151,Korean,KR,,,,,1952,,,,,114
+Inter_State,151,Korean,KR,,,,,1953,,,,,114
+Inter_State,151,Korean,KR,1,South Korea,North Korea,,1950,1953,1,,,316579
+Inter_State,151,Korean,KR,,,,,1951,,,,,316579
+Inter_State,151,Korean,KR,,,,,1952,,,,,316579
+Inter_State,151,Korean,KR,,,,,1953,,,,,316579
+Inter_State,151,Korean,KR,1,South Korea,Ethiopia,,1951,1953,2,,,120
+Inter_State,151,Korean,KR,,,,,1952,,,,,120
+Inter_State,151,Korean,KR,,,,,1953,,,,,120
+Inter_State,151,Korean,KR,1,South Korea,Australia,,1950,1953,2,,,291
+Inter_State,151,Korean,KR,,,,,1951,,,,,291
+Inter_State,151,Korean,KR,,,,,1952,,,,,291
+Inter_State,151,Korean,KR,,,,,1953,,,,,291
+Inter_State,151,Korean,KR,1,South Korea,South Korea,,1950,1953,2,,,113248
+Inter_State,151,Korean,KR,,,,,1951,,,,,113248
+Inter_State,151,Korean,KR,,,,,1952,,,,,113248
+Inter_State,151,Korean,KR,,,,,1953,,,,,113248
+Inter_State,151,Korean,KR,1,South Korea,United States of America,,1950,1953,2,,,54487
+Inter_State,151,Korean,KR,,,,,1951,,,,,54487
+Inter_State,151,Korean,KR,,,,,1952,,,,,54487
+Inter_State,151,Korean,KR,,,,,1953,,,,,54487
+Inter_State,153,Off-shore Islands,TW,1,Taiwan,China,,1954,1955,1,,,1003
+Inter_State,153,Off-shore Islands,TW,,,,,1955,,,,,1003
+Inter_State,153,Off-shore Islands,TW,1,Taiwan,Taiwan,,1954,1955,2,,,1367
+Inter_State,153,Off-shore Islands,TW,,,,,1955,,,,,1367
+Inter_State,155,Sinai War,EG,1,Egypt,France,,1956,1956,2,,,10
+Inter_State,155,Sinai War,EG,1,Egypt,Israel,,1956,1956,1,,,189
+Inter_State,155,Sinai War,EG,1,Egypt,Egypt,,1956,1956,2,,,3000
+Inter_State,155,Sinai War,EG,1,Egypt,United Kingdom,,1956,1956,2,,,22
+Inter_State,156,Soviet Invasion of Hungary,HU,1,Hungary,Hungary,,1956,1956,2,,,926
+Inter_State,156,Soviet Invasion of Hungary,HU,1,Hungary,USSR,,1956,1956,1,,,1500
+Inter_State,158,IfniWar,MA,1,Morocco,France,,1958,1958,2,,,0
+Inter_State,158,IfniWar,MA,1,Morocco,Spain,,1957,1958,2,,,122
+Inter_State,158,IfniWar,MA,,,,,1958,,,,,122
+Inter_State,158,IfniWar,MA,1,Morocco,Morocco,,1957,1958,1,,,1000
+Inter_State,158,IfniWar,MA,,,,,1958,,,,,1000
+Inter_State,159,Taiwan Straits,TW,1,Taiwan ,China (PRC),,1958,1958,1,,,300
+Inter_State,159,Taiwan Straits,TW,1,Taiwan ,Taiwan (ROC),,1958,1958,2,,,1500
+Inter_State,160,Assam,IN,1,India,India,,1962,1962,2,,,1353
+Inter_State,160,Assam,IN,1,India,China (PRC),,1962,1962,1,,,500
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,United States of America,,1965,1973,1,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1966,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1967,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,58153
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,Cambodia,,1970,1975,2,,,2500
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,2500
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,2500
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,2500
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1974,,,,,2500
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1975,,,,,2500
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,South Korea,,1965,1973,2,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1966,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1967,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,4687
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,Philippines,,1966,1973,2,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1967,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,1000
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,South Vietnam,,1965,1975,2,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1966,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1967,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1974,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1975,,,,,254257
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,Vietnam,,1965,1975,2,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1966,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1967,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1974,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1975,,,,,700000
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,Thailand,,1967,1973,2,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1973,,,,,351
+Inter_State,163,"Vietnam War, Phase 2",VN,1,Vietnam,Australia,,1965,1972,2,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1966,,,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1967,,,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1968,,,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1969,,,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1970,,,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1971,,,,,494
+Inter_State,163,"Vietnam War, Phase 2",VN,,,,,1972,,,,,494
+Inter_State,166,Second Kashmir,IN,1,India,India,,1965,1965,2,,,3261
+Inter_State,166,Second Kashmir,IN,1,India,Pakistan,,1965,1965,1,,,3800
+Inter_State,169,Six Day War,IL,1,Israel,Israel,,1967,1967,1,,,1000
+Inter_State,169,Six Day War,IL,1,Israel,Egypt,,1967,1967,2,,,10000
+Inter_State,169,Six Day War,IL,1,Israel,Jordan,,1967,1967,2,,,6100
+Inter_State,169,Six Day War,IL,1,Israel,Syria,,1967,1967,2,,,2500
+Inter_State,170,"Second Laotian, Phase 2",LA,1,Laos,United States of America,,1968,1973,2,,,375
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1969,,,,,375
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1970,,,,,375
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1971,,,,,375
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1972,,,,,375
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1973,,,,,375
+Inter_State,170,"Second Laotian, Phase 2",LA,1,Laos,Thailand,,1970,1973,2,,,100
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1971,,,,,100
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1972,,,,,100
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1973,,,,,100
+Inter_State,170,"Second Laotian, Phase 2",LA,1,Laos,Laos,,1968,1973,2,,,11250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1969,,,,,11250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1970,,,,,11250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1971,,,,,11250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1972,,,,,11250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1973,,,,,11250
+Inter_State,170,"Second Laotian, Phase 2",LA,1,Laos,Vietnam,,1968,1973,1,,,2250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1969,,,,,2250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1970,,,,,2250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1971,,,,,2250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1972,,,,,2250
+Inter_State,170,"Second Laotian, Phase 2",LA,,,,,1973,,,,,2250
+Inter_State,172,War of Attrition,IL,1,Israel,Egypt,,1969,1970,1,,,5000
+Inter_State,172,War of Attrition,IL,,,,,1970,,,,,5000
+Inter_State,172,War of Attrition,IL,1,Israel,Israel,,1969,1970,2,,,368
+Inter_State,172,War of Attrition,IL,,,,,1970,,,,,368
+Inter_State,175,Football War,SV,1,El Salvador,Honduras,,1969,1969,2,,,1200
+Inter_State,175,Football War,SV,1,El Salvador,El Salvador,,1969,1969,1,,,700
+Inter_State,176,Communist Coalition,VN,1,Vietnam,Vietnam,,1970,1971,1,,,400
+Inter_State,176,Communist Coalition,VN,,,,,1971,,,,,400
+Inter_State,176,Communist Coalition,VN,1,Vietnam,United States of America,,1970,1971,2,,,125
+Inter_State,176,Communist Coalition,VN,,,,,1971,,,,,125
+Inter_State,176,Communist Coalition,VN,1,Vietnam,Cambodia,,1970,1971,2,,,5000
+Inter_State,176,Communist Coalition,VN,,,,,1971,,,,,5000
+Inter_State,176,Communist Coalition,VN,1,Vietnam,South Vietnam,,1970,1971,2,,,1000
+Inter_State,176,Communist Coalition,VN,,,,,1971,,,,,1000
+Inter_State,178,Bangladesh,IN,1,India,India,,1971,1971,2,,,3241
+Inter_State,178,Bangladesh,IN,1,India,Pakistan,,1971,1971,1,,,7982
+Inter_State,181,Yom Kippur War,EG,1,Egypt,Egypt,,1973,1973,1,,,7700
+Inter_State,181,Yom Kippur War,EG,1,Egypt,Saudi Arabia,,1973,1973,2,,,100
+Inter_State,181,Yom Kippur War,EG,1,Egypt,Israel,,1973,1973,2,,,2838
+Inter_State,181,Yom Kippur War,EG,1,Egypt,Jordan,,1973,1973,2,,,23
+Inter_State,181,Yom Kippur War,EG,1,Egypt,Syria,,1973,1973,1,,,3500
+Inter_State,181,Yom Kippur War,EG,1,Egypt,Iraq,,1973,1973,2,,,278
+Inter_State,184,Turco-Cypriot,CY,1,Cyprus,Turkey,,1974,1974,1,,,1000
+Inter_State,184,Turco-Cypriot,CY,1,Cyprus,Cyprus,,1974,1974,2,,,500
+Inter_State,186,War over Angola,AO,1,Angola,Cuba,,1975,1976,2,,,1500
+Inter_State,186,War over Angola,AO,,,,,1976,,,,,1500
+Inter_State,186,War over Angola,AO,1,Angola,South Africa,,1975,1976,1,,,100
+Inter_State,186,War over Angola,AO,,,,,1976,,,,,100
+Inter_State,186,War over Angola,AO,1,Angola,Democratic Republic of the Congo,,1975,1976,2,,,100
+Inter_State,186,War over Angola,AO,,,,,1976,,,,,100
+Inter_State,186,War over Angola,AO,1,Angola,Angola,,1975,1976,2,,,1000
+Inter_State,186,War over Angola,AO,,,,,1976,,,,,1000
+Inter_State,187,"Second Ogaden War, Phase 2",ET,1,Ethiopia,Ethiopia,,1977,1978,2,,,1800
+Inter_State,187,"Second Ogaden War, Phase 2",ET,,,,,1978,,,,,1800
+Inter_State,187,"Second Ogaden War, Phase 2",ET,1,Ethiopia,Cuba,,1977,1978,2,,,700
+Inter_State,187,"Second Ogaden War, Phase 2",ET,,,,,1978,,,,,700
+Inter_State,187,"Second Ogaden War, Phase 2",ET,1,Ethiopia,Somalia,,1977,1978,1,,,8000
+Inter_State,187,"Second Ogaden War, Phase 2",ET,,,,,1978,,,,,8000
+Inter_State,189,Vietnamese-Cambodian,VN,1,Vietnam,Vietnam,,1977,1979,2,,,3000
+Inter_State,189,Vietnamese-Cambodian,VN,,,,,1978,,,,,3000
+Inter_State,189,Vietnamese-Cambodian,VN,,,,,1979,,,,,3000
+Inter_State,189,Vietnamese-Cambodian,VN,1,Vietnam,Cambodia,,1977,1979,1,,,5000
+Inter_State,189,Vietnamese-Cambodian,VN,,,,,1979,,,,,5000
+Inter_State,190,Ugandian-Tanzanian,UG,1,Uganda,Uganda,,1978,1979,1,,,1500
+Inter_State,190,Ugandian-Tanzanian,UG,,,,,1979,,,,,1500
+Inter_State,190,Ugandian-Tanzanian,UG,1,Uganda,Tanzania,,1978,1979,2,,,1000
+Inter_State,190,Ugandian-Tanzanian,UG,,,,,1979,,,,,1000
+Inter_State,190,Ugandian-Tanzanian,UG,1,Uganda,Libya,,1979,1979,2,,,500
+Inter_State,193,Sino-Vietnamese Punitive,VN,1,Vietnam,China,,1979,1979,1,,,13000
+Inter_State,193,Sino-Vietnamese Punitive,VN,1,Vietnam,Vietnam,,1979,1979,2,,,8000
+Inter_State,199,Iran-Iraq,IQ,1,Iraq,Iraq,,1980,1988,1,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1981,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1982,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1983,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1984,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1985,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1986,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1987,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,,,,,1988,,,,,500000
+Inter_State,199,Iran-Iraq,IQ,1,Iraq,Iran,,1980,1988,2,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1981,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1982,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1983,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1984,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1985,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1986,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1987,,,,,750000
+Inter_State,199,Iran-Iraq,IQ,,,,,1988,,,,,750000
+Inter_State,202,Falkland Islands,AR,1,Falkland Islands,United Kingdom,,1982,1982,2,,,255
+Inter_State,202,Falkland Islands,AR,1,Falkland Islands,Argentina,,1982,1982,1,,,746
+Inter_State,205,War over Lebanon,LB,1,Lebanon,Israel,,1982,1982,1,,,455
+Inter_State,205,War over Lebanon,LB,1,Lebanon,Syria,,1982,1982,2,,,1200
+Inter_State,207,War over the Aouzou Strip,TD,1,Chad,Chad,,1986,1987,1,,,1000
+Inter_State,207,War over the Aouzou Strip,TD,,,,,1987,,,,,1000
+Inter_State,207,War over the Aouzou Strip,TD,1,Chad,Libya,,1986,1987,2,,,7000
+Inter_State,207,War over the Aouzou Strip,TD,,,,,1987,,,,,7000
+Inter_State,208,Sino-Vietnamese Border War,VN,1,Vietnam,Vietnam,,1987,1987,2,,,2200
+Inter_State,208,Sino-Vietnamese Border War,VN,1,Vietnam,China,,1987,1987,1,,,1800
+Inter_State,211,Gulf War,KW,1,Kuwait,Kuwait,,1990,1991,2,,,1000
+Inter_State,211,Gulf War,KW,,,,,1991,,,,,1000
+Inter_State,211,Gulf War,KW,1,Kuwait,United States of America,,1991,1991,2,,,376
+Inter_State,211,Gulf War,KW,1,Kuwait,Canada,,1991,1991,2,,,0
+Inter_State,211,Gulf War,KW,1,Kuwait,United Kingdom,,1991,1991,2,,,24
+Inter_State,211,Gulf War,KW,1,Kuwait,Italy,,1991,1991,2,,,0
+Inter_State,211,Gulf War,KW,1,Kuwait,Morocco,,1991,1991,2,,,0
+Inter_State,211,Gulf War,KW,1,Kuwait,Iraq,,1990,1991,1,,,40000
+Inter_State,211,Gulf War,KW,1,Kuwait,Egypt,,1991,1991,2,,,14
+Inter_State,211,Gulf War,KW,1,Kuwait,Oman,,1991,1991,2,,,0
+Inter_State,211,Gulf War,KW,1,Kuwait,France,,1991,1991,2,,,2
+Inter_State,211,Gulf War,KW,1,Kuwait,United Arab Emirates,,1991,1991,2,,,6
+Inter_State,211,Gulf War,KW,1,Kuwait,Qatar,,1991,1991,2,,,0
+Inter_State,211,Gulf War,KW,1,Kuwait,Saudi Arabia,,1991,1991,2,,,44
+Inter_State,211,Gulf War,KW,1,Kuwait,Syria,,1991,1991,2,,,0
+Inter_State,215,Bosnian Independence,BA,1,Bosnia,Croatia,,1992,1992,2,,,500
+Inter_State,215,Bosnian Independence,BA,1,Bosnia,Bosnia,,1992,1992,2,,,2850
+Inter_State,215,Bosnian Independence,BA,1,Bosnia,Yugoslavia,,1992,1992,1,,,1890
+Inter_State,216,Azeri-Armenian,AM,1,Armenia,Azerbaijan,,1993,1994,2,,,8500
+Inter_State,216,Azeri-Armenian,AM,,,,,1994,,,,,8500
+Inter_State,216,Azeri-Armenian,AM,1,Armenia,Armenia,,1993,1994,1,,,5500
+Inter_State,216,Azeri-Armenian,AM,,,,,1994,,,,,5500
+Inter_State,217,Cenepa Valley,PE,1,Peru,Ecuador,,1995,1995,1,,,550
+Inter_State,217,Cenepa Valley,PE,1,Peru,Peru,,1995,1995,2,,,950
+Inter_State,219,Badme Border,ET,1,Ethiopia,Eritrea,,1998,2000,1,,,50000
+Inter_State,219,Badme Border,ET,,,,,1999,,,,,50000
+Inter_State,219,Badme Border,ET,,,,,2000,,,,,50000
+Inter_State,219,Badme Border,ET,1,Ethiopia,Ethiopia,,1998,2000,2,,,70000
+Inter_State,219,Badme Border,ET,,,,,1999,,,,,70000
+Inter_State,219,Badme Border,ET,,,,,2000,,,,,70000
+Inter_State,221,War for Kosovo,XK,1,Kosovo,Turkey,,1999,1999,1,,,0
+Inter_State,221,War for Kosovo,XK,1,Kosovo,Italy,,1999,1999,1,,,0
+Inter_State,221,War for Kosovo,XK,1,Kosovo,United Kingdom,,1999,1999,1,,,0
+Inter_State,221,War for Kosovo,XK,1,Kosovo,United States of America,,1999,1999,1,,,2
+Inter_State,221,War for Kosovo,XK,1,Kosovo,Netherlands,,1999,1999,1,,,0
+Inter_State,221,War for Kosovo,XK,1,Kosovo,France,,1999,1999,1,,,0
+Inter_State,221,War for Kosovo,XK,1,Kosovo,Yugoslavia,,1999,1999,2,,,5000
+Inter_State,221,War for Kosovo,XK,1,Kosovo,Germany,,1999,1999,1,,,0
+Inter_State,223,Kargil War,IN,1,"Kargil, India",India,,1999,1999,2,,,474
+Inter_State,223,Kargil War,IN,1,"Kargil, India",Pakistan,,1999,1999,1,,,698
+Inter_State,225,Invasion of Afghanistan,AF,1,Afghanistan,Canada,,2001,2001,2,,,0
+Inter_State,225,Invasion of Afghanistan,AF,1,Afghanistan,France,,2001,2001,2,,,0
+Inter_State,225,Invasion of Afghanistan,AF,1,Afghanistan,United Kingdom,,2001,2001,1,,,0
+Inter_State,225,Invasion of Afghanistan,AF,1,Afghanistan,United States of America,,2001,2001,1,,,2
+Inter_State,225,Invasion of Afghanistan,AF,1,Afghanistan,Australia,,2001,2001,2,,,0
+Inter_State,225,Invasion of Afghanistan,AF,1,Afghanistan,Afghanistan,,2001,2001,2,,,4000
+Inter_State,227,Invasion of Iraq,IQ,1,Iraq,Australia,,2003,2003,1,,,0
+Inter_State,227,Invasion of Iraq,IQ,1,Iraq,United Kingdom,,2003,2003,1,,,33
+Inter_State,227,Invasion of Iraq,IQ,1,Iraq,United States of America,,2003,2003,1,,,140
+Inter_State,227,Invasion of Iraq,IQ,1,Iraq,Iraq,,2003,2003,2,,,7000

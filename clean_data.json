@@ -1,0 +1,6001 @@
+[{
+        "country": "Libya",
+        "year": 2014,
+        "lat": 32.117664,
+        "long": 20.129275
+    },
+    {
+        "country": "Libya",
+        "year": 2015,
+        "lat": 32.117664,
+        "long": 20.129275
+    },
+    {
+        "country": "Senegal",
+        "year": 1998,
+        "lat": 13.083333,
+        "long": -14.833333
+    },
+    {
+        "country": "Libya",
+        "year": 2011,
+        "lat": 32.375352,
+        "long": 15.092543
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2012,
+        "lat": 42.8496,
+        "long": 47.6269
+    },
+    {
+        "country": "Iraq",
+        "year": 2008,
+        "lat": 33.340582,
+        "long": 44.400876
+    },
+    {
+        "country": "Iraq",
+        "year": 1996,
+        "lat": 36.558093,
+        "long": 44.825095
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 1996,
+        "lat": 43.1609,
+        "long": 45.6213
+    },
+    {
+        "country": "Indonesia",
+        "year": 1998,
+        "lat": -1.038102,
+        "long": 135.98008
+    },
+    {
+        "country": "Ethiopia",
+        "year": 1999,
+        "lat": 8,
+        "long": 39
+    },
+    {
+        "country": "Nigeria",
+        "year": 2004,
+        "lat": 11.994354,
+        "long": 8.513807
+    },
+    {
+        "country": "Turkey",
+        "year": 2006,
+        "lat": 37.607315,
+        "long": 42.74781
+    },
+    {
+        "country": "Iraq",
+        "year": 2008,
+        "lat": 33.340582,
+        "long": 44.400876
+    },
+    {
+        "country": "Sudan",
+        "year": 1989,
+        "lat": 11,
+        "long": 30
+    },
+    {
+        "country": "Philippines",
+        "year": 1989,
+        "lat": 16.8333,
+        "long": 121.166667
+    },
+    {
+        "country": "Libya",
+        "year": 2011,
+        "lat": 30.435,
+        "long": 19.666944
+    },
+    {
+        "country": "Djibouti",
+        "year": 1991,
+        "lat": 11.963056,
+        "long": 43.290556
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2014,
+        "lat": 1.193597,
+        "long": 29.693056
+    },
+    {
+        "country": "Kenya",
+        "year": 2008,
+        "lat": 1,
+        "long": 40.25
+    },
+    {
+        "country": "Iraq",
+        "year": 2004,
+        "lat": 33.340582,
+        "long": 44.400876
+    },
+    {
+        "country": "Iraq",
+        "year": 2004,
+        "lat": 33.340582,
+        "long": 44.400876
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 1991,
+        "lat": -4.329722,
+        "long": 15.315
+    },
+    {
+        "country": "Afghanistan",
+        "year": 1989,
+        "lat": 34.428844,
+        "long": 70.45575
+    },
+    {
+        "country": "Peru",
+        "year": 1989,
+        "lat": -8.65,
+        "long": -77.08333
+    },
+    {
+        "country": "Algeria",
+        "year": 1996,
+        "lat": 34.666666,
+        "long": -1.416667
+    },
+    {
+        "country": "Cambodia (Kampuchea)",
+        "year": 1997,
+        "lat": 14.409722,
+        "long": 103.696944
+    },
+    {
+        "country": "India",
+        "year": 2003,
+        "lat": 26,
+        "long": 93
+    },
+    {
+        "country": "Mexico",
+        "year": 2012,
+        "lat": 19.166667,
+        "long": -101.833333
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2005,
+        "lat": 22,
+        "long": 98
+    },
+    {
+        "country": "Sudan",
+        "year": 2002,
+        "lat": 11,
+        "long": 25
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 1999,
+        "lat": 22,
+        "long": 98
+    },
+    {
+        "country": "Iraq",
+        "year": 1997,
+        "lat": 36.166667,
+        "long": 42.583333
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2002,
+        "lat": 7.843278,
+        "long": 34.872436
+    },
+    {
+        "country": "India",
+        "year": 2005,
+        "lat": 33.77,
+        "long": 74.1
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2005,
+        "lat": 32.97518,
+        "long": 69.192429
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2006,
+        "lat": 9.5,
+        "long": 80.2
+    },
+    {
+        "country": "Mali",
+        "year": 2007,
+        "lat": 19.939288,
+        "long": 2.974957
+    },
+    {
+        "country": "Philippines",
+        "year": 2006,
+        "lat": 6.081765,
+        "long": 121.073688
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2007,
+        "lat": 31.829363,
+        "long": 64.608526
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2007,
+        "lat": 32.92962,
+        "long": 66.2608
+    },
+    {
+        "country": "Pakistan",
+        "year": 2006,
+        "lat": 33.008611,
+        "long": 70.069722
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2007,
+        "lat": 7.866667,
+        "long": 81.533333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2007,
+        "lat": 31.9014,
+        "long": 64.7449
+    },
+    {
+        "country": "Algeria",
+        "year": 2007,
+        "lat": 36.583333,
+        "long": 3
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2007,
+        "lat": 32.127795,
+        "long": 64.818172
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2007,
+        "lat": 8.970945,
+        "long": 81.027556
+    },
+    {
+        "country": "Kenya",
+        "year": 2007,
+        "lat": -1.283333,
+        "long": 36.816667
+    },
+    {
+        "country": "China",
+        "year": 1989,
+        "lat": 35,
+        "long": 105
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2007,
+        "lat": 20.85761,
+        "long": 92.36883
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2006,
+        "lat": 31.4927,
+        "long": 65.331341
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2006,
+        "lat": 32.88363,
+        "long": 68.06357
+    },
+    {
+        "country": "India",
+        "year": 2008,
+        "lat": 33.904676,
+        "long": 75.039216
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2007,
+        "lat": 31.9941,
+        "long": 64.8091
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2007,
+        "lat": 32.120374,
+        "long": 64.994325
+    },
+    {
+        "country": "Iraq",
+        "year": 2008,
+        "lat": 33.340582,
+        "long": 44.400876
+    },
+    {
+        "country": "Djibouti",
+        "year": 2008,
+        "lat": 12.7125,
+        "long": 43.136667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2008,
+        "lat": 32.120374,
+        "long": 64.994325
+    },
+    {
+        "country": "El Salvador",
+        "year": 1989,
+        "lat": 14.133333,
+        "long": -89.016667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2008,
+        "lat": 32.622501,
+        "long": 65.457451
+    },
+    {
+        "country": "Algeria",
+        "year": 2009,
+        "lat": 36.624812,
+        "long": 3.477879
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2010,
+        "lat": 9.190878,
+        "long": 42.411256
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2009,
+        "lat": -0.166667,
+        "long": 29.233333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 34,
+        "long": 69.25
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2009,
+        "lat": 9.352336,
+        "long": 80.58516
+    },
+    {
+        "country": "India",
+        "year": 2009,
+        "lat": 34.255822,
+        "long": 74.462834
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2009,
+        "lat": 9.4208,
+        "long": 80.6593
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 31.072875,
+        "long": 65.158015
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2009,
+        "lat": 9.25,
+        "long": 80.5499
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 33.372715,
+        "long": 69.406475
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 32.489324,
+        "long": 62.065236
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 32.920909,
+        "long": 65.474153
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 32.822754,
+        "long": 69.049332
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 36.2195,
+        "long": 68.7749
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2009,
+        "lat": 32.713324,
+        "long": 69.27614
+    },
+    {
+        "country": "India",
+        "year": 2016,
+        "lat": 33.989289,
+        "long": 74.93021
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 1991,
+        "lat": 17.836972,
+        "long": 97.678028
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2016,
+        "lat": 36.1193,
+        "long": 65.5307
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 1990,
+        "lat": 8.7514,
+        "long": 80.4971
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.52253,
+        "long": 67.22303
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 32.170956,
+        "long": 65.447906
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "Angola",
+        "year": 2001,
+        "lat": -11.916667,
+        "long": 16.9
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.704071,
+        "long": 121.971171
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.620245,
+        "long": 65.897996
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2001,
+        "lat": -5.933333,
+        "long": 29.2
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.951569,
+        "long": 81.24523
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.75,
+        "long": 80.633333
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 17.945262,
+        "long": 81.359428
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.642549,
+        "long": 67.337524
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 23.916667,
+        "long": 91.5
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.12796,
+        "long": 65.174945
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31,
+        "long": 65.75
+    },
+    {
+        "country": "Turkey",
+        "year": 2001,
+        "lat": 38.137082,
+        "long": 41.008173
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.704874,
+        "long": 35.203762
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.902561,
+        "long": 35.195547
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.90167,
+        "long": -75.95167
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.316667,
+        "long": 91
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 25.332615,
+        "long": 85.060234
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.316667,
+        "long": 91
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.717418,
+        "long": 67.280934
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.578645,
+        "long": 122.034922
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.015,
+        "long": 121.105278
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 32.6206,
+        "long": 65.8607
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.525181,
+        "long": 65.252342
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.715217,
+        "long": 35.202114
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.71495,
+        "long": 35.187111
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.51699,
+        "long": -73.19559
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.82306,
+        "long": -76.78444
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 8.216389,
+        "long": -73.241389
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 6.30654,
+        "long": -73.85134
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.416667,
+        "long": -73.416667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 32.62675,
+        "long": 65.873313
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 36.335109,
+        "long": 2.301821
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.8878,
+        "long": 9.55641
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.70443,
+        "long": 9.23428
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.807136,
+        "long": 9.476681
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.807136,
+        "long": 9.476681
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.924686,
+        "long": 75.026443
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26,
+        "long": 93
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.349991,
+        "long": 62.200001
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.8635,
+        "long": 67.351702
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.53333,
+        "long": 9.65
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.516667,
+        "long": 9.616667
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 18.25,
+        "long": 96.25
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 22,
+        "long": 98
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.349991,
+        "long": 62.200001
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.0159,
+        "long": 69.1741
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.84269,
+        "long": 66.1198
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.439029,
+        "long": 66.296612
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.106243,
+        "long": 89.997638
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Turkey",
+        "year": 2001,
+        "lat": 37.449444,
+        "long": 42.574444
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 32.622501,
+        "long": 65.457451
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.783333,
+        "long": 70.183333
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 23.916667,
+        "long": 91.5
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.032331,
+        "long": 35.103293
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.704874,
+        "long": 35.203762
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.07389,
+        "long": -69.32278
+    },
+    {
+        "country": "Angola",
+        "year": 2001,
+        "lat": -12.7,
+        "long": 17.7
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.77,
+        "long": 74.1
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.085626,
+        "long": 66.517297
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.654369,
+        "long": 61.19698
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.704874,
+        "long": 35.203762
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 35.416667,
+        "long": 0.166667
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.45,
+        "long": 81.266667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.573889,
+        "long": 34.489167
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 11.002444,
+        "long": 8.002862
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 9.1332,
+        "long": -74.9777
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.15,
+        "long": -75.11667
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3822,
+        "long": 29.3644
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33,
+        "long": 65
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 35.435833,
+        "long": 7.143333
+    },
+    {
+        "country": "Senegal",
+        "year": 2001,
+        "lat": 12.533333,
+        "long": -16.35
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 9.75,
+        "long": 80.083333
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.7387,
+        "long": 81.7045
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.116667,
+        "long": 124.466667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35,
+        "long": 69.58333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.07089,
+        "long": 69.30933
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -15.333333,
+        "long": 12.5
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.07089,
+        "long": 69.30933
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36,
+        "long": 67.666667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 27.396814,
+        "long": 95.636455
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.666667,
+        "long": 69.33333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.666667,
+        "long": 69.33333
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.45,
+        "long": 34.916667
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.441794,
+        "long": 35.043547
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.45,
+        "long": 34.916667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.694722,
+        "long": -76.661111
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3135,
+        "long": 30.5869
+    },
+    {
+        "country": "Uganda",
+        "year": 2001,
+        "lat": 1.416667,
+        "long": 31.083333
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 16.136536,
+        "long": 98.36185
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 6.931944,
+        "long": 79.847778
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 37.071301,
+        "long": 69.298683
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 35.676837,
+        "long": 0.872814
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 21.280781,
+        "long": 99.605689
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.64056,
+        "long": -72.19861
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 6.25184,
+        "long": -75.563591
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 35.555278,
+        "long": 6.178611
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 9.851157,
+        "long": 80.249483
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 23.837247,
+        "long": 86.490756
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.176076,
+        "long": 91.762932
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.394398,
+        "long": 62.123005
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.8635,
+        "long": 67.351702
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.308064,
+        "long": 35.192556
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.529349,
+        "long": 35.093796
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.189664,
+        "long": 34.970631
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 35,
+        "long": 7
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 9.75,
+        "long": 80.083333
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.45,
+        "long": 81.266667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 19.264791,
+        "long": 78.251174
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.516667,
+        "long": 122.133333
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2001,
+        "lat": -2.633333,
+        "long": 26.1
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2001,
+        "lat": 4.75,
+        "long": 38.81667
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.498714,
+        "long": 9.939125
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.498714,
+        "long": 9.939125
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.63333,
+        "long": 9.9
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.19287,
+        "long": 74.3692
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28,
+        "long": 83.83333
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.461111,
+        "long": 35.3
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.394398,
+        "long": 62.123005
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.083517,
+        "long": 66.840293
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 4.441724,
+        "long": -75.426783
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3489,
+        "long": 29.4839
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 4.366667,
+        "long": 18.583333
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 27.3,
+        "long": 96.1
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 42.9595,
+        "long": 46.1134
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.476389,
+        "long": 30.248611
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.85,
+        "long": 29.633333
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.066667,
+        "long": 29.666667
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -4.008611,
+        "long": 29.741944
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 4.366667,
+        "long": 18.583333
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 4.366667,
+        "long": 18.583333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.909898,
+        "long": 66.810004
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.4234,
+        "long": 69.1171
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.212607,
+        "long": 62.22584
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.394398,
+        "long": 62.123005
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.0959,
+        "long": -73.44407
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 9.000916,
+        "long": -72.910858
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.45,
+        "long": 30.316667
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.85,
+        "long": 29.633333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.428844,
+        "long": 70.45575
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.1772,
+        "long": 69.6973
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.200678,
+        "long": 35.212928
+    },
+    {
+        "country": "Spain",
+        "year": 2001,
+        "lat": 43.366667,
+        "long": -3.016667
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.8644,
+        "long": 80.4992
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 9.7008,
+        "long": 80.3093
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 23.630503,
+        "long": 91.918151
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.529349,
+        "long": 35.093796
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 82.25
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34,
+        "long": 69.25
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.33333,
+        "long": 70.41667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.666667,
+        "long": 69.33333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.349991,
+        "long": 62.200001
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 4.366667,
+        "long": 18.583333
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 13,
+        "long": 122
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.16202,
+        "long": -68.00765
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 6,
+        "long": -75
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 32.005213,
+        "long": 65.500902
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.985812,
+        "long": 65.476312
+    },
+    {
+        "country": "Zambia",
+        "year": 2001,
+        "lat": -16.320126,
+        "long": 22.087219
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.016667,
+        "long": 81.483333
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.2917,
+        "long": 45.8724
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.62195,
+        "long": 92.036453
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33,
+        "long": 65
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.488011,
+        "long": -66.879193
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.900889,
+        "long": -76.297829
+    },
+    {
+        "country": "Indonesia",
+        "year": 2001,
+        "lat": -2.596159,
+        "long": 140.673531
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 8,
+        "long": 10.5
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 10.577708,
+        "long": 7.448526
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.7102,
+        "long": 81.6924
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 9.16667,
+        "long": 80.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.41667,
+        "long": 82.25
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.60671,
+        "long": -66.89177
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 6.29966,
+        "long": -72.72422
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 4.649178,
+        "long": -74.062827
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 18.25,
+        "long": 96.25
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 23.75,
+        "long": 84.4
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.84288,
+        "long": 69.198133
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.75,
+        "long": 67.25
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.349991,
+        "long": 62.200001
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.909898,
+        "long": 66.810004
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 80.33333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.6808,
+        "long": 66.7521
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.6808,
+        "long": 66.7521
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.200678,
+        "long": 35.212928
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 6.833333,
+        "long": -73.416667
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 0.5,
+        "long": -76
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.33333,
+        "long": 67.75
+    },
+    {
+        "country": "Uganda",
+        "year": 2001,
+        "lat": 3,
+        "long": 32.15
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.7102,
+        "long": 81.6924
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.275584,
+        "long": 75.021236
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.531094,
+        "long": 69.162796
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3822,
+        "long": 29.3644
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.356192,
+        "long": 29.392897
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.412566,
+        "long": 69.644474
+    },
+    {
+        "country": "Uganda",
+        "year": 2001,
+        "lat": 2.766667,
+        "long": 32.305556
+    },
+    {
+        "country": "Sudan",
+        "year": 2001,
+        "lat": 10,
+        "long": 32.7
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.198611,
+        "long": 30.247222
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 17.923614,
+        "long": 96.875314
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 25.75,
+        "long": 94.16667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 17.940756,
+        "long": 79.856929
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 7.783333,
+        "long": 126.333333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.6823,
+        "long": 69.1086
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -15.333333,
+        "long": 12.5
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 35.0159,
+        "long": 69.1741
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.173011,
+        "long": -76.262747
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.24247,
+        "long": -66.85723
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.47306,
+        "long": -68.0125
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "Kenya",
+        "year": 2001,
+        "lat": -1.5,
+        "long": 39.5
+    },
+    {
+        "country": "Sudan",
+        "year": 2001,
+        "lat": 7.715063,
+        "long": 26.217148
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.3171,
+        "long": 80.4051
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.14272,
+        "long": 71.0367
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26,
+        "long": 93
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 25.75,
+        "long": 94.16667
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.451994,
+        "long": -76.810288
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 25.75,
+        "long": 94.16667
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.052222,
+        "long": 121.002222
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 5.994293,
+        "long": 120.960283
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 5.936724,
+        "long": 120.921139
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.066667,
+        "long": 121.1
+    },
+    {
+        "country": "Zambia",
+        "year": 2001,
+        "lat": -16.333333,
+        "long": 22.083333
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 7.216667,
+        "long": 18.833333
+    },
+    {
+        "country": "Sudan",
+        "year": 2001,
+        "lat": 11,
+        "long": 30
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 26.91667,
+        "long": 85.8
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 8.12923,
+        "long": -63.54086
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 4.304357,
+        "long": -73.43436
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5,
+        "long": -74.166667
+    },
+    {
+        "country": "Angola",
+        "year": 2001,
+        "lat": -8.066667,
+        "long": 14.233333
+    },
+    {
+        "country": "Somalia",
+        "year": 2001,
+        "lat": 8.406389,
+        "long": 48.483056
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.080399,
+        "long": 74.823383
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 24.696359,
+        "long": 84.780288
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 27.70882,
+        "long": 95.5608
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 13,
+        "long": 98.75
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.182114,
+        "long": 89.897888
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.91636,
+        "long": 94.65546
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.916667,
+        "long": -76.166667
+    },
+    {
+        "country": "Spain",
+        "year": 2001,
+        "lat": 43.05017,
+        "long": -2.20087
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28,
+        "long": 83.83333
+    },
+    {
+        "country": "Indonesia",
+        "year": 2001,
+        "lat": 4.611,
+        "long": 95.633
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.6808,
+        "long": 66.7521
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.296569,
+        "long": 35.277669
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.287004,
+        "long": 34.259525
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.1488,
+        "long": 45.901
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.19847,
+        "long": -74.39368
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.544558,
+        "long": -76.82262
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 10.50153,
+        "long": -74.71074
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 10.83333,
+        "long": -74.03333
+    },
+    {
+        "country": "Angola",
+        "year": 2001,
+        "lat": -7,
+        "long": 15.666667
+    },
+    {
+        "country": "Uganda",
+        "year": 2001,
+        "lat": 3,
+        "long": 32
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.10081,
+        "long": 75.6497
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.25,
+        "long": 86
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.51746,
+        "long": 81.7787
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.51746,
+        "long": 81.7787
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.401389,
+        "long": 34.36
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.66692,
+        "long": 66.984181
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.2911,
+        "long": 45.3014
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.45,
+        "long": -75.75
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 5.45,
+        "long": -75.75
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -16,
+        "long": 16
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.654743,
+        "long": 65.704308
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 9.6364,
+        "long": 80.2937
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.25,
+        "long": 74.25
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 6.01986,
+        "long": 6.91478
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.5582,
+        "long": 34.544839
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.55,
+        "long": 34.5
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.14272,
+        "long": 71.0367
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.5,
+        "long": -77
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.578645,
+        "long": 122.034922
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.41667,
+        "long": 82.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.75,
+        "long": 86.75
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.82936,
+        "long": 85.54504
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.910255,
+        "long": 122.071715
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.609067,
+        "long": 35.289202
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 1.48747,
+        "long": -75.72581
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.60252,
+        "long": 91.817207
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 10.76417,
+        "long": -74.15722
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3065,
+        "long": 29.4168
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.766667,
+        "long": 4.566667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33,
+        "long": 75.16667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 23.917222,
+        "long": 91.847222
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.378396,
+        "long": 35.076493
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 7.65,
+        "long": 18.616667
+    },
+    {
+        "country": "Somalia",
+        "year": 2001,
+        "lat": 2.15,
+        "long": 45.116667
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.5711,
+        "long": 81.2335
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 17.875998,
+        "long": 78.609313
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.66667,
+        "long": 83.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.75,
+        "long": 86.75
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 6.910255,
+        "long": 122.071715
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.197308,
+        "long": 70.279839
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.231766,
+        "long": 66.033102
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 7.678889,
+        "long": -9.490833
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.443834,
+        "long": -77.115009
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.443834,
+        "long": -77.115009
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.443834,
+        "long": -77.115009
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2001,
+        "lat": 4.13333,
+        "long": 39
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2001,
+        "lat": 5.31667,
+        "long": 39.58333
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2001,
+        "lat": 4.55,
+        "long": 39.06667
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.583333,
+        "long": 35
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 8.28694,
+        "long": -10.08444
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 7.916667,
+        "long": -10
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.66667,
+        "long": 87.83333
+    },
+    {
+        "country": "Somalia",
+        "year": 2001,
+        "lat": 2.15,
+        "long": 45.116667
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 7.014722,
+        "long": 121.969722
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.583611,
+        "long": 34.5025
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.00568,
+        "long": 66.4002
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.507365,
+        "long": 65.850348
+    },
+    {
+        "country": "Ghana",
+        "year": 2001,
+        "lat": 11.058056,
+        "long": -0.241667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.116667,
+        "long": 70.216667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 36.6659,
+        "long": 66.4221
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 7.13602,
+        "long": 122.153612
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "Kenya",
+        "year": 2001,
+        "lat": -1.5,
+        "long": 39.5
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 35.6,
+        "long": 0.583333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 26.91667,
+        "long": 87.91667
+    },
+    {
+        "country": "Sudan",
+        "year": 2001,
+        "lat": 10,
+        "long": 32.7
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 7.37639,
+        "long": -9.99833
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.82936,
+        "long": 85.54504
+    },
+    {
+        "country": "Indonesia",
+        "year": 2001,
+        "lat": 5.55,
+        "long": 95.316667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2001,
+        "lat": 5.594545,
+        "long": 95.420137
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.516667,
+        "long": 34.45
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.98695,
+        "long": -73.75797
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.2955,
+        "long": 80.6356
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 10.399722,
+        "long": -75.514444
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.9,
+        "long": 10.38333
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 7.55,
+        "long": 10.283333
+    },
+    {
+        "country": "Kenya",
+        "year": 2001,
+        "lat": -1.5,
+        "long": 39.5
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.75,
+        "long": 81.4997
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 27.5,
+        "long": 95.366667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 26.83,
+        "long": 86.01
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.27834,
+        "long": -74.16404
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 36.91716,
+        "long": 3.913107
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 36.65,
+        "long": 3.333333
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 36.38,
+        "long": 3.901389
+    },
+    {
+        "country": "Angola",
+        "year": 2001,
+        "lat": -9.166667,
+        "long": 13.833333
+    },
+    {
+        "country": "Kenya",
+        "year": 2001,
+        "lat": -1.5,
+        "long": 39.5
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 18.872097,
+        "long": 80.388526
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.17871,
+        "long": 74.389797
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.41654,
+        "long": 74.352306
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.91667,
+        "long": 85.25
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.46736,
+        "long": -66.60663
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.98695,
+        "long": -73.75797
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.823574,
+        "long": -75.883991
+    },
+    {
+        "country": "Sudan",
+        "year": 2001,
+        "lat": 9.069444,
+        "long": 30.884167
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.66667,
+        "long": 83.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28,
+        "long": 83.83333
+    },
+    {
+        "country": "Jamaica",
+        "year": 2001,
+        "lat": 18,
+        "long": -76.8
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.583333,
+        "long": 35
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 3.302766,
+        "long": -73.44153
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 7.7102,
+        "long": 81.6924
+    },
+    {
+        "country": "Sri Lanka",
+        "year": 2001,
+        "lat": 8.5711,
+        "long": 81.2335
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 29.5,
+        "long": 80.58333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.83333,
+        "long": 86.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 26.91667,
+        "long": 87.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.41667,
+        "long": 82.25
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.529349,
+        "long": 35.093796
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.38678,
+        "long": -75.54736
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 16.25,
+        "long": 97.75
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10,
+        "long": -72.16667
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 8.28694,
+        "long": -10.08444
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 28.613889,
+        "long": 77.208889
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.83333,
+        "long": 82.25
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.902561,
+        "long": 35.195547
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.287004,
+        "long": 34.259525
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.2917,
+        "long": 45.8724
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.2917,
+        "long": 45.8724
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3065,
+        "long": 29.4168
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 22,
+        "long": 98
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.15,
+        "long": 87.55
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3822,
+        "long": 29.3644
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.529349,
+        "long": 35.093796
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.081944,
+        "long": 35.182222
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 34.116667,
+        "long": 70.216667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.2286,
+        "long": 45.7363
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.287004,
+        "long": 34.259525
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.0411,
+        "long": 46.1602
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.0397,
+        "long": 45.7293
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 28,
+        "long": 3
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 36.7464,
+        "long": 3.8303
+    },
+    {
+        "country": "Algeria",
+        "year": 2001,
+        "lat": 36.183333,
+        "long": 1.533333
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.535298,
+        "long": 34.535787
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.25,
+        "long": 74.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.33333,
+        "long": 81.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 29.25,
+        "long": 80.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 29.25,
+        "long": 81.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.75,
+        "long": 86.75
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -3.406667,
+        "long": 29.145833
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.41667,
+        "long": 82.25
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.529349,
+        "long": 35.093796
+    },
+    {
+        "country": "Papua New Guinea",
+        "year": 2001,
+        "lat": -6.143947,
+        "long": 143.660474
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.1117,
+        "long": 45.9901
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.315509,
+        "long": 74.68729
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.83333,
+        "long": 86.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 29.58333,
+        "long": 82.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.75,
+        "long": 83.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.41667,
+        "long": 82.75
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.75,
+        "long": 82.58333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 29.66667,
+        "long": 81.25
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.62195,
+        "long": 92.036453
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.469034,
+        "long": 69.365335
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 11.6956,
+        "long": -70.19957
+    },
+    {
+        "country": "Papua New Guinea",
+        "year": 2001,
+        "lat": -6.143947,
+        "long": 143.660474
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 7.26389,
+        "long": -73.30111
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.927299,
+        "long": -75.281885
+    },
+    {
+        "country": "Papua New Guinea",
+        "year": 2001,
+        "lat": -6.143947,
+        "long": 143.660474
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2001,
+        "lat": 17.518708,
+        "long": 97.329811
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.333333,
+        "long": 91.25
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.75,
+        "long": 86.75
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.62195,
+        "long": 92.036453
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.3065,
+        "long": 29.4168
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.442387,
+        "long": 74.629752
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 34.307394,
+        "long": 74.375785
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.33333,
+        "long": 81.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.75,
+        "long": 80.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27,
+        "long": 85.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.75,
+        "long": 82.58333
+    },
+    {
+        "country": "Indonesia",
+        "year": 2001,
+        "lat": 5.134197,
+        "long": 95.906634
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 8.421944,
+        "long": -9.747778
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.45,
+        "long": 29.866667
+    },
+    {
+        "country": "Liberia",
+        "year": 2001,
+        "lat": 8.28694,
+        "long": -10.08444
+    },
+    {
+        "country": "Venezuela",
+        "year": 2001,
+        "lat": 10.16202,
+        "long": -68.00765
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2001,
+        "lat": -2.95,
+        "long": 25.933333
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2001,
+        "lat": -2.95,
+        "long": 25.933333
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 33.25,
+        "long": 74.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 26.83,
+        "long": 86.01
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.58333,
+        "long": 85.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.75,
+        "long": 82.58333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.91667,
+        "long": 85.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.16667,
+        "long": 85.33333
+    },
+    {
+        "country": "Philippines",
+        "year": 2001,
+        "lat": 5.9678,
+        "long": 121.3139
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.572858,
+        "long": -72.645914
+    },
+    {
+        "country": "Nigeria",
+        "year": 2001,
+        "lat": 9.68333,
+        "long": 8.76667
+    },
+    {
+        "country": "India",
+        "year": 2001,
+        "lat": 26.62195,
+        "long": 92.036453
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.16667,
+        "long": 81.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 28.83333,
+        "long": 81.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 26.91667,
+        "long": 87.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2001,
+        "lat": 27.91667,
+        "long": 85.25
+    },
+    {
+        "country": "Israel",
+        "year": 2001,
+        "lat": 31.535298,
+        "long": 34.535787
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2001,
+        "lat": 33.641,
+        "long": 69.2075
+    },
+    {
+        "country": "Burundi",
+        "year": 2001,
+        "lat": -3.045833,
+        "long": 29.493611
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2001,
+        "lat": 4.366667,
+        "long": 18.583333
+    },
+    {
+        "country": "Kenya",
+        "year": 2001,
+        "lat": 1,
+        "long": 38
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2001,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.204105,
+        "long": -76.294605
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 2.342491,
+        "long": -76.495809
+    },
+    {
+        "country": "Colombia",
+        "year": 2001,
+        "lat": 1.301228,
+        "long": -77.51586
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 34.672787,
+        "long": 3.262995
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.876174,
+        "long": 6.909208
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.25,
+        "long": 74.25
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.25,
+        "long": 74.25
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.19287,
+        "long": 74.3692
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 84
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.071716,
+        "long": 97.21136
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.8825,
+        "long": 124.494444
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.202,
+        "long": 46.0879
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2425,
+        "long": 46.0019
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.318,
+        "long": 45.6982
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 2.5,
+        "long": -76.833333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 6.792768,
+        "long": -71.771699
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 6.666667,
+        "long": -71
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2503,
+        "long": 45.9085
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.1859,
+        "long": 46.15
+    },
+    {
+        "country": "Senegal",
+        "year": 2002,
+        "lat": 12.583333,
+        "long": -16.271944
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.316667,
+        "long": 4.833333
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -12.5,
+        "long": 18.5
+    },
+    {
+        "country": "Nigeria",
+        "year": 2002,
+        "lat": 6.87463,
+        "long": 11.21184
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 1.97611,
+        "long": -75.79454
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.5,
+        "long": 29.95
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.5,
+        "long": 29.95
+    },
+    {
+        "country": "Nigeria",
+        "year": 2002,
+        "lat": 9.68333,
+        "long": 8.76667
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -13.016667,
+        "long": 14.633333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 35.584191,
+        "long": 63.329563
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -3.819888,
+        "long": 29.099722
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 2.296222,
+        "long": 30.121222
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 31.625941,
+        "long": 63.861445
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 7.125393,
+        "long": -73.119804
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -6.016667,
+        "long": 29.133333
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -1.233333,
+        "long": 26.233333
+    },
+    {
+        "country": "Sudan",
+        "year": 2002,
+        "lat": 7.783333,
+        "long": 28
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2002,
+        "lat": 7.833333,
+        "long": 34.5
+    },
+    {
+        "country": "Ivory Coast",
+        "year": 2002,
+        "lat": 7.683333,
+        "long": -5.033056
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 8.13972,
+        "long": -10.29278
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 8.10583,
+        "long": -10.35833
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 8.13972,
+        "long": -10.29278
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 8.17889,
+        "long": -10.22917
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 8.286944,
+        "long": -10.084444
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -12.5,
+        "long": 18.5
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2002,
+        "lat": 8,
+        "long": 39
+    },
+    {
+        "country": "Ethiopia",
+        "year": 2002,
+        "lat": 7,
+        "long": 44
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 32.565,
+        "long": 74.676
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -8.58,
+        "long": 13.664167
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -8.44,
+        "long": 25.84
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.534444,
+        "long": 3.682778
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 7.6862,
+        "long": 123.2006
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2002,
+        "lat": 22,
+        "long": 98
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.08333,
+        "long": 82.83333
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2425,
+        "long": 46.0019
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 35.375833,
+        "long": 1.313056
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 35.189937,
+        "long": -0.630846
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.264169,
+        "long": 2.753926
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -3.16667,
+        "long": 28.25
+    },
+    {
+        "country": "Brazil",
+        "year": 2002,
+        "lat": -22.90278,
+        "long": -43.2075
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 80.33333
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2425,
+        "long": 46.0019
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 7.085,
+        "long": -70.756667
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.89001,
+        "long": 74.66297
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.83333,
+        "long": 75.16667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 33.1512,
+        "long": 69.8008
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 8.65445,
+        "long": -73.0531
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.58333,
+        "long": 83.33333
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.77,
+        "long": 74.1
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.58333,
+        "long": 83.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.41667,
+        "long": 82.25
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.55,
+        "long": 95.316667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 33.1512,
+        "long": 69.8008
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2917,
+        "long": 45.8724
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 10.07389,
+        "long": -69.32278
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2917,
+        "long": 45.8724
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 81.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.58333,
+        "long": 83.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.41667,
+        "long": 82.75
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.82936,
+        "long": 85.54504
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 18.761296,
+        "long": 78.507724
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.467745,
+        "long": 95.859496
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.55,
+        "long": 95.316667
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 15.93,
+        "long": 120.84
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.3573,
+        "long": 29.4258
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 25.16625,
+        "long": 84.564426
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.616667,
+        "long": 97.616667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.024421,
+        "long": 95.942275
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.41667,
+        "long": 86.08333
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.0943,
+        "long": 97.03909
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.51746,
+        "long": 81.7787
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.208055,
+        "long": 34.283333
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.318,
+        "long": 45.6982
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.318,
+        "long": 45.6982
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.83333,
+        "long": 75.16667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.177,
+        "long": 45.8938
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.9526,
+        "long": 46.0671
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.095833,
+        "long": 46.376389
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.4148,
+        "long": 29.4082
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.91667,
+        "long": 76.66667
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 10.488011,
+        "long": -66.879193
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 8.5,
+        "long": -73.083333
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 8.406389,
+        "long": 48.483056
+    },
+    {
+        "country": "Brazil",
+        "year": 2002,
+        "lat": -22.90278,
+        "long": -43.2075
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 33.1512,
+        "long": 69.8008
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.3058,
+        "long": 45.7477
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 81.41667
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 10.16202,
+        "long": -68.00765
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 8.12923,
+        "long": -63.54086
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.83333,
+        "long": 75.16667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.1968,
+        "long": 96.7895
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.8917,
+        "long": 29.5166
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.25,
+        "long": 80.41667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.318,
+        "long": 45.6982
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 6.5,
+        "long": 48.783333
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.836438,
+        "long": 74.934837
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.08333,
+        "long": 82.83333
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.0902,
+        "long": 95.3727
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.66667,
+        "long": 97.6667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.45,
+        "long": 96.183333
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.0397,
+        "long": 45.7293
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 35.855499,
+        "long": 1.33229
+    },
+    {
+        "country": "Sudan",
+        "year": 2002,
+        "lat": 10,
+        "long": 32.7
+    },
+    {
+        "country": "Sudan",
+        "year": 2005,
+        "lat": 11.983333,
+        "long": 24.983333
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 24.083241,
+        "long": 91.652111
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 26.66667,
+        "long": 87.5
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27,
+        "long": 85.58333
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 1.47688,
+        "long": -77.08289
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.3489,
+        "long": 29.4839
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 26.494504,
+        "long": 90.70895
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.05,
+        "long": 97.316667
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.052222,
+        "long": 121.002222
+    },
+    {
+        "country": "Turkey",
+        "year": 2002,
+        "lat": 38.137082,
+        "long": 41.008173
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.7,
+        "long": 35.216667
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.864167,
+        "long": 35.169722
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 2.522953,
+        "long": -75.314922
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 0.75,
+        "long": -74
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 5.3505,
+        "long": 48.5268
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2002,
+        "lat": 7,
+        "long": 21
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.83333,
+        "long": 75.16667
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.55,
+        "long": 95.316667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.188056,
+        "long": 97.140278
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.052222,
+        "long": 121.002222
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.956,
+        "long": 46.1268
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.956,
+        "long": 46.1268
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.0211,
+        "long": 46.0553
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 5.266667,
+        "long": -75.333333
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.1276,
+        "long": 45.5406
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.588389,
+        "long": 3.774448
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -3.083333,
+        "long": 25.85
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -3.083333,
+        "long": 29.116667
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.45,
+        "long": 34.916667
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.45,
+        "long": 34.916667
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 5.88333,
+        "long": -71.9
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 83.83333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 0.5,
+        "long": -76
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 5.26598,
+        "long": -76.56487
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.9849,
+        "long": 47.5046
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -8.4,
+        "long": 20.716667
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2002,
+        "lat": 13,
+        "long": 98.75
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.305416,
+        "long": 95.97436
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 26.91667,
+        "long": 86.66667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.071,
+        "long": 95.337
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.310367,
+        "long": 35.028628
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 9,
+        "long": -64.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 10.8388,
+        "long": -74.17074
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.438889,
+        "long": -75.232222
+    },
+    {
+        "country": "Central African Republic",
+        "year": 2002,
+        "lat": 7,
+        "long": 21
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.95,
+        "long": 97.775
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 10.488011,
+        "long": -66.879193
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 10.8388,
+        "long": -74.17074
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.19287,
+        "long": 74.3692
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.16667,
+        "long": 87.83333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.437222,
+        "long": -76.5225
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 5.3505,
+        "long": 48.5268
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.83333,
+        "long": 75.16667
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 26.106243,
+        "long": 89.997638
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.109444,
+        "long": 29.398611
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.10081,
+        "long": 75.6497
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.10081,
+        "long": 75.6497
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 24.696359,
+        "long": 84.780288
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.75,
+        "long": 80.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 80.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.66667,
+        "long": 87.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.66667,
+        "long": 81.25
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.902561,
+        "long": 35.195547
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.142002,
+        "long": -73.626645
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.5,
+        "long": 80.58333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.74806,
+        "long": -74.56306
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 8.42129,
+        "long": -73.68214
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.305027,
+        "long": 96.0595
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 35.691111,
+        "long": -0.641667
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.219919,
+        "long": 35.26362
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 2.5,
+        "long": -76.583333
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 6.769722,
+        "long": 47.430833
+    },
+    {
+        "country": "Sudan",
+        "year": 2002,
+        "lat": 12,
+        "long": 30.75
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.194722,
+        "long": 29.295278
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 1.83333,
+        "long": 44.41667
+    },
+    {
+        "country": "Brazil",
+        "year": 2002,
+        "lat": -22.90278,
+        "long": -43.2075
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.836438,
+        "long": 74.934837
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 26.62195,
+        "long": 92.036453
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.25,
+        "long": 87.08333
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.578645,
+        "long": 122.034922
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.633333,
+        "long": 122.216667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 32.926,
+        "long": 66.6309
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.2775,
+        "long": -75.621389
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27,
+        "long": 87.33333
+    },
+    {
+        "country": "Somalia",
+        "year": 2002,
+        "lat": 1.783333,
+        "long": 44.533333
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.202778,
+        "long": 30.516667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.1336,
+        "long": 45.7757
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.344444,
+        "long": 34.303056
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.902561,
+        "long": 35.195547
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.35481,
+        "long": 34.2746
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 33.335091,
+        "long": 69.918411
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 32.9152,
+        "long": 66.6194
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.041667,
+        "long": 29.305
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -4.167389,
+        "long": 29.229933
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.614722,
+        "long": 29.355556
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.33333,
+        "long": 84.83333
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.81,
+        "long": 97.895
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.221,
+        "long": 46.1949
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.095833,
+        "long": 46.376389
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.1276,
+        "long": 45.5406
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.649178,
+        "long": -74.062827
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.476389,
+        "long": 30.248611
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.633333,
+        "long": 29.366667
+    },
+    {
+        "country": "Papua New Guinea",
+        "year": 2002,
+        "lat": -6.143947,
+        "long": 143.660474
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.614722,
+        "long": 29.355556
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.205,
+        "long": 30.684444
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.35,
+        "long": 30.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 82.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.58333,
+        "long": 85.66667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.8403,
+        "long": 46.4329
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 5.412581,
+        "long": -74.992189
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 1.21361,
+        "long": -77.28111
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.15,
+        "long": 87.55
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.25,
+        "long": 80.41667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.3519,
+        "long": 46.1035
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.902561,
+        "long": 35.195547
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.58333,
+        "long": 83.33333
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2223,
+        "long": 46.249
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.105775,
+        "long": 46.189971
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.013081,
+        "long": 46.107622
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.318,
+        "long": 45.6982
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.0411,
+        "long": 46.1602
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.28655,
+        "long": -73.52031
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 11.77505,
+        "long": -72.44447
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.34512,
+        "long": -73.11374
+    },
+    {
+        "country": "Nigeria",
+        "year": 2002,
+        "lat": 6.58333,
+        "long": 3.75
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.23458,
+        "long": -74.80934
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.25,
+        "long": 84.41667
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.23458,
+        "long": -74.80934
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 1.19512,
+        "long": -75.70705
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4,
+        "long": -72
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.567778,
+        "long": 29.3575
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.8,
+        "long": 30.25
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -11.783333,
+        "long": 19.916667
+    },
+    {
+        "country": "Bangladesh",
+        "year": 2002,
+        "lat": 24.899167,
+        "long": 91.871944
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 25.98083,
+        "long": 91.2397
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.41667,
+        "long": 83.16667
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 23.128648,
+        "long": 84.249633
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.783333,
+        "long": 35.216667
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.5072,
+        "long": 46.334
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.26678,
+        "long": -74.14525
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 7.01333,
+        "long": -75.2475
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 4.25833,
+        "long": -73.56142
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 2.5,
+        "long": -75.583333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 2.65486,
+        "long": -77.14994
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 35.737344,
+        "long": 0.555987
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 6.666667,
+        "long": -71
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.390556,
+        "long": 30.441389
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.08333,
+        "long": 85.08333
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.590951,
+        "long": 74.307262
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.080399,
+        "long": 74.823383
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.15,
+        "long": 87.55
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.27528,
+        "long": 82.18333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.75,
+        "long": 80.91667
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 31.611795,
+        "long": 65.705795
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.9595,
+        "long": 46.1134
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.9595,
+        "long": 46.1134
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 43.2917,
+        "long": 45.8724
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.08333,
+        "long": 82.83333
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 36.304873,
+        "long": 66.861089
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 36.52289,
+        "long": 66.597061
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 37.062469,
+        "long": 66.801369
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 33.8,
+        "long": 2.865143
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.083333,
+        "long": 27.266667
+    },
+    {
+        "country": "Senegal",
+        "year": 2002,
+        "lat": 12.8275,
+        "long": -15.980556
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.080399,
+        "long": 74.823383
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.75,
+        "long": 80.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.41667,
+        "long": 82.75
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 36.308781,
+        "long": 66.880615
+    },
+    {
+        "country": "Turkey",
+        "year": 2002,
+        "lat": 38.327673,
+        "long": 41.413768
+    },
+    {
+        "country": "Russia (Soviet Union)",
+        "year": 2002,
+        "lat": 42.9595,
+        "long": 46.1134
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 11.143185,
+        "long": -73.41118
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.73924,
+        "long": -73.83489
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 1.614382,
+        "long": -75.606229
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.5625,
+        "long": 30.248417
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2002,
+        "lat": 20.294722,
+        "long": 98.934444
+    },
+    {
+        "country": "Bangladesh",
+        "year": 2002,
+        "lat": 22.338396,
+        "long": 91.831685
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.339199,
+        "long": 74.320461
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 24.810255,
+        "long": 85.463287
+    },
+    {
+        "country": "Papua New Guinea",
+        "year": 2002,
+        "lat": -6.143947,
+        "long": 143.660474
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.266667,
+        "long": 35.010278
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 33.589794,
+        "long": 69.232445
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.470039,
+        "long": 2.827699
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 2.562881,
+        "long": 97.827572
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 35.705833,
+        "long": 4.541944
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.83184,
+        "long": 7.603289
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -12.5,
+        "long": 17.25
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 25.98083,
+        "long": 91.2397
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.91667,
+        "long": 84.25
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.55,
+        "long": 95.316667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.55,
+        "long": 95.316667
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.788611,
+        "long": 34.792222
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.264169,
+        "long": 2.753926
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.41667,
+        "long": 83.16667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.08333,
+        "long": 85.08333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.25,
+        "long": 80.41667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 80.33333
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.538128,
+        "long": 121.89493
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 82.41667
+    },
+    {
+        "country": "Philippines",
+        "year": 2002,
+        "lat": 6.5422,
+        "long": 121.8769
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -3.16667,
+        "long": 28.25
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.238368,
+        "long": 30.0331
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": -8.166667,
+        "long": 27.033333
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.124283,
+        "long": -73.751561
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 3.124283,
+        "long": -73.751561
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 1.5625,
+        "long": 30.248417
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.470039,
+        "long": 2.827699
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.2475,
+        "long": 29.456389
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -13.166667,
+        "long": 13
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -13.166667,
+        "long": 13
+    },
+    {
+        "country": "Angola",
+        "year": 2002,
+        "lat": -9.3,
+        "long": 14.916667
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 36.700067,
+        "long": 67.116647
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 5.407328,
+        "long": -75.487487
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 10.591812,
+        "long": -74.189831
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 6.460995,
+        "long": -71.730043
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.844444,
+        "long": 3.987222
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.128333,
+        "long": 29.419167
+    },
+    {
+        "country": "Burundi",
+        "year": 2002,
+        "lat": -3.116667,
+        "long": 29.4
+    },
+    {
+        "country": "Pakistan",
+        "year": 2002,
+        "lat": 24.86,
+        "long": 67.01
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33.25,
+        "long": 74.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 26.75,
+        "long": 86.33333
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33,
+        "long": 75.16667
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 33,
+        "long": 75.16667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.616667,
+        "long": 97.616667
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.2882,
+        "long": 95.9598
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.05,
+        "long": 97.316667
+    },
+    {
+        "country": "Venezuela",
+        "year": 2002,
+        "lat": 8.12923,
+        "long": -63.54086
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 31.287004,
+        "long": 34.259525
+    },
+    {
+        "country": "Uganda",
+        "year": 2002,
+        "lat": 2.427783,
+        "long": 33.108633
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "year": 2002,
+        "lat": 19.770278,
+        "long": 96.156111
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.83333,
+        "long": 80.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.58333,
+        "long": 87.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28,
+        "long": 83.83333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 29.66667,
+        "long": 81.25
+    },
+    {
+        "country": "Afghanistan",
+        "year": 2002,
+        "lat": 33.1512,
+        "long": 69.8008
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.263889,
+        "long": 2.160833
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.711825,
+        "long": 4.045914
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.263889,
+        "long": 2.160833
+    },
+    {
+        "country": "Nigeria",
+        "year": 2002,
+        "lat": 6.14543,
+        "long": 6.788452
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.19287,
+        "long": 74.3692
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 23.968341,
+        "long": 91.78614
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.08333,
+        "long": 83.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.58333,
+        "long": 85.66667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.58333,
+        "long": 87.33333
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 27.91667,
+        "long": 84.25
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.41667,
+        "long": 82.25
+    },
+    {
+        "country": "Algeria",
+        "year": 2002,
+        "lat": 36.637728,
+        "long": 3.371271
+    },
+    {
+        "country": "DR Congo (Zaire)",
+        "year": 2002,
+        "lat": 2.766666,
+        "long": 27.616666
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 2.333333,
+        "long": 97.666667
+    },
+    {
+        "country": "Colombia",
+        "year": 2002,
+        "lat": 7.97917,
+        "long": -75.4202
+    },
+    {
+        "country": "Israel",
+        "year": 2002,
+        "lat": 32.199,
+        "long": 35.4349
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 6.694194,
+        "long": -10.87444
+    },
+    {
+        "country": "India",
+        "year": 2002,
+        "lat": 34.372601,
+        "long": 74.167293
+    },
+    {
+        "country": "Liberia",
+        "year": 2002,
+        "lat": 6.694194,
+        "long": -10.87444
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 26.91667,
+        "long": 87.91667
+    },
+    {
+        "country": "Nepal",
+        "year": 2002,
+        "lat": 28.58333,
+        "long": 83.33333
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 5.55,
+        "long": 95.35
+    },
+    {
+        "country": "Indonesia",
+        "year": 2002,
+        "lat": 4.616667,
+        "long": 97.616667
+    }
+]

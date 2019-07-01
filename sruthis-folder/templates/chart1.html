@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Title of the document</title>
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/material.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+    <style>
+        #chartdiv {
+            width: 100%;
+            height: 500px;
+        }
+    </style>
+</head>
+
+<body>
+    <div><h1 id="title"></h1></div>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="well">
+                <h5>SELECT Country of Origin:</h5>
+                <select id="selectCountry" onchange="countryOnChange(this.value)"></select>
+            </div>
+           
+        </div>
+        <div class="col-md-5">
+            <div id="pie"></div>
+        </div>
+        <div id="chartdiv"></div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="{{ url_for('static', filename='js/chart1.js') }}"></script>
+
+</html>

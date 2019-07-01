@@ -31,8 +31,8 @@ function createMap(){
     conflictSeries.heatRules.push({
       property: "fill",
       target: conflictSeries.mapPolygons.template,
-      min: chart.colors.getIndex(1).brighten(1),
-      max: chart.colors.getIndex(1).brighten(-0.3)
+      max: am4core.color("#e60000"),
+      min: am4core.color("#ffa366")
     });
     conflictSeries.useGeodata = true;
 
@@ -62,7 +62,7 @@ function createMap(){
 
     // Configure series tooltip
     var polygonTemplate = conflictSeries.mapPolygons.template;
-    polygonTemplate.tooltipText = "{name}: {value}";
+    polygonTemplate.tooltipText = "{name}: Total Deaths {value}";
     polygonTemplate.nonScalingStroke = true;
     polygonTemplate.strokeWidth = 0.5;
 
@@ -73,8 +73,11 @@ function createMap(){
     //create line series - with arrows showing origin to desination 
     var lineSeries = chart.series.push(new am4maps.MapLineSeries());
     lineSeries.dataFields.multiGeoLine = "multiGeoLine";
+    lineSeries.dataFields.id = "id"; //will hold origin to destination
+    lineSeries.dataFields.value = "value"; // will hold # of refugees
     
     var lineTemplate = lineSeries.mapLines.template;
+    lineTemplate.tooltipText = "{id}: Total Refugees {value}";
     lineTemplate.nonScalingStroke = true;
     lineTemplate.arrow.nonScaling = true;
     lineTemplate.arrow.width = 4;
@@ -85,85 +88,85 @@ function createMap(){
     lineTemplate.line.strokeOpacity = .5;
 
     //log first year of data? maybethis is the issue that is causing it not to create the map in the first place i don't fucking know
-    lineSeries.data = 
-    [{
-      "multiGeoLine": 
-        [[ {"latitude": 47.33333333, "longitude": 13.33333333},
-            {"latitude": 42.666667, "longitude":21.166667 } ]]},
-    {
-          "multiGeoLine": 
-            [[ {"latitude":50.83333333 , "longitude": 4.0},
-                {"latitude": 42.666667, "longitude": 21.166667} ]]},
-    {
-          "multiGeoLine": 
-            [[ {"latitude": 60.0, "longitude":-95.0 },
-                {"latitude":42.666667 , "longitude":21.166667 } ]]},
-{
-      "multiGeoLine": 
-        [[ {"latitude": 47.0, "longitude":8.0 },
-            {"latitude":42.666667 , "longitude":21.166667 } ]]},
-            {
-              "multiGeoLine": 
-                [[ {"latitude":0.0 , "longitude":25.0 },
-                    {"latitude": -12.5, "longitude":18.5 } ]]},
-                    {
-                      "multiGeoLine": 
-                        [[ {"latitude":51.0 , "longitude":9.0 },
-                            {"latitude": 42.666667, "longitude": 21.166667} ]]},
+//     lineSeries.data = 
+//     [{
+//       "multiGeoLine": 
+//         [[ {"latitude": 47.33333333, "longitude": 13.33333333},
+//             {"latitude": 42.666667, "longitude":21.166667 } ]]},
+//     {
+//           "multiGeoLine": 
+//             [[ {"latitude":50.83333333 , "longitude": 4.0},
+//                 {"latitude": 42.666667, "longitude": 21.166667} ]]},
+//     {
+//           "multiGeoLine": 
+//             [[ {"latitude": 60.0, "longitude":-95.0 },
+//                 {"latitude":42.666667 , "longitude":21.166667 } ]]},
+// {
+//       "multiGeoLine": 
+//         [[ {"latitude": 47.0, "longitude":8.0 },
+//             {"latitude":42.666667 , "longitude":21.166667 } ]]},
+//             {
+//               "multiGeoLine": 
+//                 [[ {"latitude":0.0 , "longitude":25.0 },
+//                     {"latitude": -12.5, "longitude":18.5 } ]]},
+//                     {
+//                       "multiGeoLine": 
+//                         [[ {"latitude":51.0 , "longitude":9.0 },
+//                             {"latitude": 42.666667, "longitude": 21.166667} ]]},
 
-          {
-      "multiGeoLine": 
-        [[ {"latitude":56.0 , "longitude":0.0 },
-            {"latitude":42.666667 , "longitude": 21.166667} ]]},
-            {
-              "multiGeoLine": 
-                [[ {"latitude": 46.0, "longitude": 2.0},
-                    {"latitude": 42.666667, "longitude": 21.166667} ]]},
-                    {
-      "multiGeoLine": 
-        [[ {"latitude": 54.0, "longitude":-2.0 },
-            {"latitude": 42.666667, "longitude": 21.166667} ]]},
-            {
-      "multiGeoLine": 
-        [[ {"latitude":39.0 , "longitude":22.0 },
-            {"latitude": 42.666667, "longitude": 21.166667} ]]},
-            {
-      "multiGeoLine": 
-        [[ {"latitude": 42.83333333, "longitude":12.83333333 },
-            {"latitude":42.666667 , "longitude": 21.166667} ]]},
-            {
-      "multiGeoLine": 
-        [[ {"latitude": 49.75, "longitude": 6.16666666},
-            {"latitude":42.666667 , "longitude":21.166667 } ]]},
-            {
-      "multiGeoLine": 
-        [[ {"latitude": 32.0, "longitude": -5.0},
-            {"latitude": 42.666667, "longitude":21.166667 } ]]},
-            {
-      "multiGeoLine": 
-        [[ {"latitude": 52.5, "longitude": 5.75},
-            {"latitude": 42.666667, "longitude":21.166667} ]]},
-            {
-      "multiGeoLine": 
-        [[ {"latitude": 62.0, "longitude":10.0 },
-        {"latitude": 42.666667, "longitude":21.166667} ]]},
-        {
-      "multiGeoLine": 
-        [[ {"latitude": 62.0, "longitude":15.0 },
-        {"latitude": 42.666667, "longitude":21.166667} ]]},
-        {
-      "multiGeoLine": 
-        [[ {"latitude": 34.0, "longitude":9.0 },
-        {"latitude": 42.666667, "longitude":21.166667} ]]},
-        {
-      "multiGeoLine": 
-        [[ {"latitude": 39.0, "longitude":35.0 },
-        {"latitude": 42.666667, "longitude":21.166667} ]]},
-        {
-      "multiGeoLine": 
-        [[ {"latitude": 38.0, "longitude":-97.0 },
-        {"latitude": 42.666667, "longitude":21.166667} ]]}
-        ];
+//           {
+//       "multiGeoLine": 
+//         [[ {"latitude":56.0 , "longitude":0.0 },
+//             {"latitude":42.666667 , "longitude": 21.166667} ]]},
+//             {
+//               "multiGeoLine": 
+//                 [[ {"latitude": 46.0, "longitude": 2.0},
+//                     {"latitude": 42.666667, "longitude": 21.166667} ]]},
+//                     {
+//       "multiGeoLine": 
+//         [[ {"latitude": 54.0, "longitude":-2.0 },
+//             {"latitude": 42.666667, "longitude": 21.166667} ]]},
+//             {
+//       "multiGeoLine": 
+//         [[ {"latitude":39.0 , "longitude":22.0 },
+//             {"latitude": 42.666667, "longitude": 21.166667} ]]},
+//             {
+//       "multiGeoLine": 
+//         [[ {"latitude": 42.83333333, "longitude":12.83333333 },
+//             {"latitude":42.666667 , "longitude": 21.166667} ]]},
+//             {
+//       "multiGeoLine": 
+//         [[ {"latitude": 49.75, "longitude": 6.16666666},
+//             {"latitude":42.666667 , "longitude":21.166667 } ]]},
+//             {
+//       "multiGeoLine": 
+//         [[ {"latitude": 32.0, "longitude": -5.0},
+//             {"latitude": 42.666667, "longitude":21.166667 } ]]},
+//             {
+//       "multiGeoLine": 
+//         [[ {"latitude": 52.5, "longitude": 5.75},
+//             {"latitude": 42.666667, "longitude":21.166667} ]]},
+//             {
+//       "multiGeoLine": 
+//         [[ {"latitude": 62.0, "longitude":10.0 },
+//         {"latitude": 42.666667, "longitude":21.166667} ]]},
+//         {
+//       "multiGeoLine": 
+//         [[ {"latitude": 62.0, "longitude":15.0 },
+//         {"latitude": 42.666667, "longitude":21.166667} ]]},
+//         {
+//       "multiGeoLine": 
+//         [[ {"latitude": 34.0, "longitude":9.0 },
+//         {"latitude": 42.666667, "longitude":21.166667} ]]},
+//         {
+//       "multiGeoLine": 
+//         [[ {"latitude": 39.0, "longitude":35.0 },
+//         {"latitude": 42.666667, "longitude":21.166667} ]]},
+//         {
+//       "multiGeoLine": 
+//         [[ {"latitude": 38.0, "longitude":-97.0 },
+//         {"latitude": 42.666667, "longitude":21.166667} ]]}
+//         ];
     
     
     //Create slider that changes between iterations of year/map
@@ -202,7 +205,7 @@ function createMap(){
       
       label.text = "";
       label.text = `${yearIndex}`;
-      label.fontSize = 20;
+      label.fontSize = 64;
 
       if (currentIndex != yearIndex) {
         
@@ -229,7 +232,8 @@ function createMap(){
         var line_data = [];
         for (var index = 0; index < response.length; index++){
           line_data.push(
-          {
+          { "id":response[index].id,
+              "value":response[index].value,
             "multiGeoLine": 
               [[
                   {"latitude": response[index].originlat, "longitude": response[index].originlong},

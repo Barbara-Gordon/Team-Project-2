@@ -17,7 +17,7 @@ def chart1():
 def chart2():
     return render_template('chart2.html')
     
-@app.route('/mappage')
+@app.route('/map_page')
 def map_page():
     return render_template('map.html')
 

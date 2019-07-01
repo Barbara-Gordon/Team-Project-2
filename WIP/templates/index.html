@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Team: World Connection</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">-->
 </head>
 <body>
@@ -59,7 +59,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
 		<div class="col-md-5">
-				<a href="chart1.html"> <!--Link Html-->
+				<a href="{{ url_for('chart1') }}"> <!--Link Html-->
             <img class="img-fluid" src="chart1.png" alt="Line Graph" style="width:500px;height:300px;"> <!--place image of visualization-->
           </a>
 		</div>
@@ -73,7 +73,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
 		<div class="col-md-5">
-				<a href="chart2.html"> <!--Link Html-->
+				<a href="{{ url_for('chart2') }}"> <!--Link Html-->
             <img class="img-fluid" src="chart2.png" alt="Chord Chart" style="width:500px;height:300px;"> <!--place image of visualization  use alt for title description-->
           </a>
 		</div>
@@ -87,7 +87,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
 		<div class="col-md-5">
-				<a href="map.html"> <!--Link Html-->
+				<a href="{{ url_for('map_page') }}"> <!--Link Html-->
             <img class="img-fluid" src="http://placehold.it/500x300" alt="Flight Map" style="width:500px;height:600px;"> <!--place image of visualization-->
           </a>
 		</div>
